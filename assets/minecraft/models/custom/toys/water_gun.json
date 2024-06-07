@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "custom/toys/water_gun"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 1.75, -0.5],
+			"scale": [1.3, 1.3, 1.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [1.25, 0, -3],
+			"scale": [1.3, 1.3, 1.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1.25, 0, -3],
+			"scale": [1.3, 1.3, 1.3]
+		},
+		"gui": {
+			"translation": [-0.25, 0, 0],
+			"scale": [1.11, 1.11, 1.11]
+		}
+	}
+}

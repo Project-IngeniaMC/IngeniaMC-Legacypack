@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+      { "predicate": {"custom_model_data": 1}, "model": "custom/signs/splash_battles"},
+      { "predicate": {"custom_model_data": 2}, "model": "custom/signs/beach_con_bar"},
+      { "predicate": {"custom_model_data": 3}, "model": "custom/other/fog"},
+      { "predicate": {"custom_model_data": 4}, "model": "custom/other/dj_table"}
+  ]
+}

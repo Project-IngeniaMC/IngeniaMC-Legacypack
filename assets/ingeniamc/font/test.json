@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "ingeniamc:dialogue_line.otf",
+            "oversample": 16,
+            "size": 12,
+            "shift": [
+                0, -16
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:chat/icon/dirt.png",
+            "height": 16,
+            "ascent": 16,
+            "chars": [
+                "\uFE02"
+            ]
+        }
+    ]
+}

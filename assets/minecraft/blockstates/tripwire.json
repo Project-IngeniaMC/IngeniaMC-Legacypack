@@ -1,0 +1,18 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "false",
+                "west": "false",
+                "attached": "false",
+                "disarmed": "false",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "custom/plants/winter/snowy_tall_grass"
+            }
+        }
+    ]
+}

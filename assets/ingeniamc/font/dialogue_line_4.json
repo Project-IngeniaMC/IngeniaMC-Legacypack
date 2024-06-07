@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "ingeniamc:dialogue_line.otf",
+            "oversample": 16,
+            "size": 12,
+            "shift": [
+                0, -1
+            ]
+        }
+    ]
+}

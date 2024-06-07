@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "custom/games/shield_hexagon"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 1],
+			"scale": [0.27, 0.27, 0.27]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 1],
+			"scale": [0.27, 0.27, 0.27]
+		},
+		"firstperson_righthand": {
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"ground": {
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"head": {
+			"translation": [0, 0, -7.75]
+		}
+	}
+}

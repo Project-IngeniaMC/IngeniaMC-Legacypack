@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "custom/other/red_cross"},
+        { "predicate": {"custom_model_data": 2}, "model": "custom/other/blue_circle"},
+        { "predicate": {"custom_model_data": 3}, "model": "custom/wearables/owner_crown"},
+        { "predicate": {"custom_model_data": 4}, "model": "custom/wearables/white_mouth_mask"},
+        { "predicate": {"custom_model_data": 5}, "model": "custom/wearables/black_mouth_mask"},
+        { "predicate": {"custom_model_data": 6}, "model": "custom/wearables/face_mask"},
+        { "predicate": {"custom_model_data": 7}, "model": "custom/other/books"},
+        { "predicate": {"custom_model_data": 8}, "model": "custom/wearables/golden_band"},
+        { "predicate": {"custom_model_data": 9}, "model": "custom/wearables/black_hat"},
+
+
+        { "predicate": {"custom_model_data": 10}, "model": "custom/wearables/rudolph_reindeer"},
+        { "predicate": {"custom_model_data": 11}, "model": "custom/wearables/santa_hat"},
+        { "predicate": {"custom_model_data": 12}, "model": "custom/other/snowman"},
+        { "predicate": {"custom_model_data": 14}, "model": "custom/wearables/golden_santa_hat"},
+
+
+        { "predicate": {"custom_model_data": 15}, "model": "custom/fun/m64diamondstar"},
+        { "predicate": {"custom_model_data": 16}, "model": "custom/fun/avontuuriergamer"},
+
+
+        { "predicate": {"custom_model_data": 17}, "model": "custom/wearables/magic_village/wizard_hats/purple"},
+        { "predicate": {"custom_model_data": 18}, "model": "custom/wearables/magic_village/wizard_hats/orange"},
+        { "predicate": {"custom_model_data": 19}, "model": "custom/wearables/magic_village/wizard_hats/green"},
+        { "predicate": {"custom_model_data": 20}, "model": "custom/wearables/magic_village/wizard_hats/red"},
+
+
+        { "predicate": {"custom_model_data": 21}, "model": "custom/wearables/magic_village/dragon_hats/purple"},
+        { "predicate": {"custom_model_data": 22}, "model": "custom/wearables/magic_village/dragon_hats/orange"},
+        { "predicate": {"custom_model_data": 23}, "model": "custom/wearables/magic_village/dragon_hats/green"},
+        { "predicate": {"custom_model_data": 24}, "model": "custom/wearables/magic_village/dragon_hats/red"},
+
+
+        { "predicate": {"custom_model_data": 25}, "model": "custom/wearables/sakura_valley/japanese_hat"},
+
+        { "predicate": {"custom_model_data": 26}, "model": "custom/wearables/global/backpacks/simple_backpack"},
+        { "predicate": {"custom_model_data": 27}, "model": "custom/wearables/global/wings/simple_wings"},
+        { "predicate": {"custom_model_data": 28}, "model": "custom/wearables/global/hats/chef_toque"},
+        { "predicate": {"custom_model_data": 29}, "model": "custom/cosmetics/vina_tropica/straw_hat"},
+        { "predicate": {"custom_model_data": 30}, "model": "custom/cosmetics/vina_tropica/ranger_hat"},
+        { "predicate": {"custom_model_data": 31}, "model": "custom/cosmetics/vina_tropica/reversed_straw_hat"},
+        { "predicate": {"custom_model_data": 32}, "model": "custom/cosmetics/vina_tropica/sombrero"}
+    ]
+}
