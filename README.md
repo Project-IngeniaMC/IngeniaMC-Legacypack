@@ -104,29 +104,6 @@ This is the private repository for the IngeniaMC Resourcepack.
 |                       | 9                     | Colorable Slide
 |                       | 10                    | Colorable Surfboard
 |                       | 11                    | Water Balloon
-| **leather_boots**     | 1                     | Animated Cube Torso               
-| Model Engine          | 2                     | Animated Cube Right Arm           
-|                       | 3                     | Animated Cube Left Arm            
-|                       | 4                     | Female Wizard Left Leg            
-|                       | 5                     | Female Wizard Right Leg           
-|                       | 6                     | Female Wizard Body                
-|                       | 7                     | Female Wizard Left Leg Bottom     
-|                       | 8                     | Female Wizard Right Leg Bottom    
-|                       | 9                     | Female Wizard Head                
-|                       | 10                    | Female Wizard Right Arm           
-|                       | 11                    | Female Wizard Left Arm            
-|                       | 12                    | Female Wizard Right Arm Bottom    
-|                       | 13                    | Female Wizard Left Arm Bottom     
-|                       | 14                    | Female Wizard With Hat Head       
-|                       | 15                    | Female Wizard With Hat Left Leg   
-|                       | 16                    | Female Wizard With Hat Right Arm Bottom 
-|                       | 17                    | Female Wizard With Hat Right Arm  
-|                       | 18                    | Female Wizard With Hat Left Arm   
-|                       | 19                    | Female Wizard With Hat Left Arm Bottom 
-|                       | 20                    | Female Wizard With Hat Left Leg Bottom 
-|                       | 21                    | Female Wizard With Hat Right Leg  
-|                       | 22                    | Female Wizard With Hat Body       
-|                       | 23                    | Female Wizard With Hat Right Leg Bottom 
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm
