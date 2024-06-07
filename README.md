@@ -11,8 +11,6 @@ This is the private repository for the IngeniaMC Resourcepack.
 
 <summary>Custom Model Data</summary>
 
-## Custom Model Data
-
 | Parent-Item           | Custom Model Data     | Model
 | --------------        | :-:                   | -------------
 | **diamond_sword**     | 1                     | Parktrain Wagon
