@@ -7,7 +7,6 @@
 This is the private repository for the IngeniaMC Resourcepack.
 
 # Custom Model Data
-[Custom Model Data](https://github.com/M64DiamondStar/IngeniaMC-Resourcepack/blob/main/CustomModelData.md)
 <details>
 
 <summary>Custom Model Data</summary>
@@ -149,6 +148,7 @@ This is the private repository for the IngeniaMC Resourcepack.
 |                       | 9                     | Skeleton 4
 
 </details>
+
 ## Contributors
 
 - [Sem-Del](https://github.com/Sem-Del)
