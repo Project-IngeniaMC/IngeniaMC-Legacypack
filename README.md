@@ -6,6 +6,9 @@
 
 This is the private repository for the IngeniaMC Resourcepack.
 
+# Custom Model Data
+[Custom Model Data](https://github.com/M64DiamondStar/IngeniaMC-Resourcepack/blob/main/CustomModelData.md)
+
 ## Contributors
 
 - [Sem-Del](https://github.com/Sem-Del)
