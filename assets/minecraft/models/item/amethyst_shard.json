@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/amethyst_shard"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 1}, "model": "custom/games/wand_clash/wands/branch"}
+      { "predicate": {"custom_model_data": 1}, "model": "custom/games/wand_clash/wands/branch"},
+      { "predicate": {"custom_model_data": 2}, "model": "custom/games/wand_clash/shield_hexagon"},
+      { "predicate": {"custom_model_data": 3}, "model": "custom/games/wand_clash/magical_arrow"}
   ]
 }

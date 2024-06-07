@@ -7,7 +7,7 @@
         { "predicate": {"custom_model_data": 1}, "model": "custom/rides/parktrain/parktrain_wagon"},
         { "predicate": {"custom_model_data": 2}, "model": "custom/rides/parktrain/parktrain_loco"},
         { "predicate": {"custom_model_data": 3}, "model": "custom/rides/wizardwaters/wizard_waters"},
-        { "predicate": {"custom_model_data": 4}, "model": "custom/rides/wizardwaters/wizard_waters_gate"},
+        
 
         { "predicate": {"custom_model_data": 6}, "model": "custom/rides/woodencoaster/woodencoaster"},
         { "predicate": {"custom_model_data": 7}, "model": "custom/rides/sandsnake/sand_snake"},

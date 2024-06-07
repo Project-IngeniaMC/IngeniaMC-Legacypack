@@ -15,10 +15,7 @@
         { "predicate": {"custom_model_data": 9}, "model": "custom/wearables/black_hat"},
 
 
-        { "predicate": {"custom_model_data": 10}, "model": "custom/wearables/rudolph_reindeer"},
-        { "predicate": {"custom_model_data": 11}, "model": "custom/wearables/santa_hat"},
-        { "predicate": {"custom_model_data": 12}, "model": "custom/other/snowman"},
-        { "predicate": {"custom_model_data": 14}, "model": "custom/wearables/golden_santa_hat"},
+
 
 
         { "predicate": {"custom_model_data": 15}, "model": "custom/fun/m64diamondstar"},

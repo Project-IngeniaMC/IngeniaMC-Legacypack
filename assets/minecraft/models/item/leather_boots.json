@@ -1,1 +1,33 @@
-{"overrides":[{"predicate":{"custom_model_data":1},"model":"modelengine:animated_cube/torso"},{"predicate":{"custom_model_data":2},"model":"modelengine:animated_cube/right_arm"},{"predicate":{"custom_model_data":3},"model":"modelengine:animated_cube/left_arm"},{"predicate":{"custom_model_data":4},"model":"modelengine:female_wizard/left_leg"},{"predicate":{"custom_model_data":5},"model":"modelengine:female_wizard/right_leg"},{"predicate":{"custom_model_data":6},"model":"modelengine:female_wizard/body"},{"predicate":{"custom_model_data":7},"model":"modelengine:female_wizard/left_leg_bottom"},{"predicate":{"custom_model_data":8},"model":"modelengine:female_wizard/right_leg_bottom"},{"predicate":{"custom_model_data":9},"model":"modelengine:female_wizard/head"},{"predicate":{"custom_model_data":10},"model":"modelengine:female_wizard/right_arm"},{"predicate":{"custom_model_data":11},"model":"modelengine:female_wizard/left_arm"},{"predicate":{"custom_model_data":12},"model":"modelengine:female_wizard/right_arm_bottom"},{"predicate":{"custom_model_data":13},"model":"modelengine:female_wizard/left_arm_bottom"},{"predicate":{"custom_model_data":14},"model":"modelengine:female_wizard_with_hat/head"},{"predicate":{"custom_model_data":15},"model":"modelengine:female_wizard_with_hat/left_leg"},{"predicate":{"custom_model_data":16},"model":"modelengine:female_wizard_with_hat/right_arm_bottom"},{"predicate":{"custom_model_data":17},"model":"modelengine:female_wizard_with_hat/right_arm"},{"predicate":{"custom_model_data":18},"model":"modelengine:female_wizard_with_hat/left_arm"},{"predicate":{"custom_model_data":19},"model":"modelengine:female_wizard_with_hat/left_arm_bottom"},{"predicate":{"custom_model_data":20},"model":"modelengine:female_wizard_with_hat/left_leg_bottom"},{"predicate":{"custom_model_data":21},"model":"modelengine:female_wizard_with_hat/right_leg"},{"predicate":{"custom_model_data":22},"model":"modelengine:female_wizard_with_hat/body"},{"predicate":{"custom_model_data":23},"model":"modelengine:female_wizard_with_hat/right_leg_bottom"}],"parent":"item/generated","textures":{"layer0":"item/leather_boots","layer1":"item/leather_boots_overlay"}}
+{
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "modelengine:animated_cube/torso"},
+      {"predicate": {"custom_model_data": 2}, "model": "modelengine:animated_cube/right_arm"},
+      {"predicate": {"custom_model_data": 3}, "model": "modelengine:animated_cube/left_arm"},
+      {"predicate": {"custom_model_data": 4}, "model": "modelengine:female_wizard/left_leg"},
+      {"predicate": {"custom_model_data": 5}, "model": "modelengine:female_wizard/right_leg"},
+      {"predicate": {"custom_model_data": 6}, "model": "modelengine:female_wizard/body"},
+      {"predicate": {"custom_model_data": 7}, "model": "modelengine:female_wizard/left_leg_bottom"},
+      {"predicate": {"custom_model_data": 8}, "model": "modelengine:female_wizard/right_leg_bottom"},
+      {"predicate": {"custom_model_data": 9}, "model": "modelengine:female_wizard/head"},
+      {"predicate": {"custom_model_data": 10}, "model": "modelengine:female_wizard/right_arm"},
+      {"predicate": {"custom_model_data": 11}, "model": "modelengine:female_wizard/left_arm"},
+      {"predicate": {"custom_model_data": 12}, "model": "modelengine:female_wizard/right_arm_bottom"},
+      {"predicate": {"custom_model_data": 13}, "model": "modelengine:female_wizard/left_arm_bottom"},
+      {"predicate": {"custom_model_data": 14}, "model": "modelengine:female_wizard_with_hat/head"},
+      {"predicate": {"custom_model_data": 15}, "model": "modelengine:female_wizard_with_hat/left_leg"},
+      {"predicate": {"custom_model_data": 16}, "model": "modelengine:female_wizard_with_hat/right_arm_bottom"},
+      {"predicate": {"custom_model_data": 17}, "model": "modelengine:female_wizard_with_hat/right_arm"},
+      {"predicate": {"custom_model_data": 18}, "model": "modelengine:female_wizard_with_hat/left_arm"},
+      {"predicate": {"custom_model_data": 19}, "model": "modelengine:female_wizard_with_hat/left_arm_bottom"},
+      {"predicate": {"custom_model_data": 20}, "model": "modelengine:female_wizard_with_hat/left_leg_bottom"},
+      {"predicate": {"custom_model_data": 21}, "model": "modelengine:female_wizard_with_hat/right_leg"},
+      {"predicate": {"custom_model_data": 22}, "model": "modelengine:female_wizard_with_hat/body"},
+      {"predicate": {"custom_model_data": 23}, "model": "modelengine:female_wizard_with_hat/right_leg_bottom"}
+    ],
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/leather_boots",
+      "layer1": "item/leather_boots_overlay"
+    }
+  }
+  

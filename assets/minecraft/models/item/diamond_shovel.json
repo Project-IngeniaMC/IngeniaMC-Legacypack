@@ -8,12 +8,7 @@
         { "predicate": {"custom_model_data": 2}, "model": "custom/ride-extra/sandsnake/snakeheadbottom"},
         { "predicate": {"custom_model_data": 3}, "model": "custom/ride-extra/pyraculus/doorleft"},
         { "predicate": {"custom_model_data": 4}, "model": "custom/ride-extra/pyraculus/doorright"},
-        { "predicate": {"custom_model_data": 5}, "model": "custom/ride-extra/wizardwaters/elevator"}
+        { "predicate": {"custom_model_data": 5}, "model": "custom/ride-extra/wizardwaters/elevator"},
+        { "predicate": {"custom_model_data": 6}, "model": "custom/rides/wizardwaters/wizard_waters_gate"}
     ]
-}
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:custom/drinks/your_drink_texture"
-  }
 }

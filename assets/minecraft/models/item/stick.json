@@ -11,6 +11,7 @@
         { "predicate": {"custom_model_data": 5}, "model": "custom/arms/darker_arm"},
         { "predicate": {"custom_model_data": 5}, "model": "custom/arms/sick_arm"},
         { "predicate": {"custom_model_data": 6}, "model": "custom/arms/green_arm"},
-        { "predicate": {"custom_model_data": 7}, "model": "custom/arms/skeleton_arm"}
+        { "predicate": {"custom_model_data": 7}, "model": "custom/arms/skeleton_arm"},
+        { "predicate": {"custom_model_data": 8}, "model": "custom/arms/blank_arm"}
     ]
 }
