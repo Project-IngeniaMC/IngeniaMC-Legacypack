@@ -1,6 +1,6 @@
 # IngeniaMC-Resourcepack
 
-Welcome by github of the IngeniaMC-Resourcepack!
+Welcome by github of the IngeniaMC-Resourcepack! 
 
 ## Contributors:
 
