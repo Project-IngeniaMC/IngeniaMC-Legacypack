@@ -8,10 +8,11 @@ This is the private repository for the IngeniaMC Resourcepack. Here are all of t
 
 # Custom Model Data
 To show all of the models we have in the server we use Custom Model Data. This makes it so that we can add an unlimited amount of custom items to the server. To help us know what everything is we have made a list with all the Custom Model Data.
+
 To give yourself a Custom Model Data item use:
 
 ```
-   /give @p ITEM{CustomModelData:NUMBER}
+/give @p ITEM{CustomModelData:NUMBER}
 ```
 
 <details>
