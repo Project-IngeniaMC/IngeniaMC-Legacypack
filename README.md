@@ -99,6 +99,15 @@ To give yourself a Custom Model Data item use:
 |                       | 4                     | Holy Tomato
 | **milk_bucket**       | 1                     | Hot Chocolate
 | Drinks                | 2                     | Hot Chocolate Cream
+|                       | 3                     | Cocktail Blue Lemon
+|                       | 4                     | Cocktail Green Lemon
+|                       | 5                     | Cocktail Purple Lemon
+|                       | 6                     | Glass Blue Leave
+|                       | 7                     | Glass Pink Leave
+|                       | 8                     | Glass Red Leave
+|                       | 9                     | Small Glass Blue
+|                       | 10                    | Small Glass Green
+|                       | 11                    | Small Glass Red
 | **bucket**            | 1                     | Empty Hot Chocolate
 | Empty Drinks          | 2                     | -
 | **crossbow**          | 1                     | Water Pistol Charged

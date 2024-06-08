@@ -5,6 +5,15 @@
   },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "custom/food/hotchocolate"},
-        { "predicate": {"custom_model_data": 2}, "model": "custom/food/hotchocolatecream"}
+        { "predicate": {"custom_model_data": 2}, "model": "custom/food/hotchocolatecream"},
+        { "predicate": {"custom_model_data": 3}, "model": "custom/drinks/cocktail-blue-lemon"},
+        { "predicate": {"custom_model_data": 4}, "model": "custom/drinks/cocktail-green-lemon"},
+        { "predicate": {"custom_model_data": 5}, "model": "custom/drinks/cocktail-purple-lemon"},
+        { "predicate": {"custom_model_data": 6}, "model": "custom/drinks/glass-blue-leave"},
+        { "predicate": {"custom_model_data": 7}, "model": "custom/drinks/glass-pink-leave"},
+        { "predicate": {"custom_model_data": 8}, "model": "custom/drinks/glass-red-leave"},
+        { "predicate": {"custom_model_data": 9}, "model": "custom/drinks/small-glass-blue"},
+        { "predicate": {"custom_model_data": 10}, "model": "custom/drinks/small-glass-green"},
+        { "predicate": {"custom_model_data": 11}, "model": "custom/drinks/small-glass-red"}
     ]
 }
