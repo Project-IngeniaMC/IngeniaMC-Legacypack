@@ -161,4 +161,4 @@ To give yourself a Custom Model Data item use:
 
 - [M64DiamondStar](https://github.com/M64DiamondStar)
 
-> © 2024 IngeniaMC. All rights reserved.
+> © 2024 IngeniaMC. All rights reserved. 
