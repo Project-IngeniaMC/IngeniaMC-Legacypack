@@ -13,8 +13,9 @@
         { "predicate": {"custom_model_data": 7}, "model": "custom/other/books"},
         { "predicate": {"custom_model_data": 8}, "model": "custom/wearables/golden_band"},
         { "predicate": {"custom_model_data": 9}, "model": "custom/wearables/black_hat"},
-
-
+        { "predicate": {"custom_model_data": 10}, "model": "custom/other/mannequin"},
+        { "predicate": {"custom_model_data": 11}, "model": "custom/cosmetics/summer_event/swim_ring"},
+        { "predicate": {"custom_model_data": 12}, "model": "custom/cosmetics/summer_event/duck_ring"},
 
 
 
