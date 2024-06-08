@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/bucket"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "custom/food/emptyhotchocolate"}
+        { "predicate": {"custom_model_data": 1}, "model": "custom/food/emptyhotchocolate"},
+        { "predicate": {"custom_model_data": 2}, "model": "custom/drinks/cocktail-empty"},
+        { "predicate": {"custom_model_data": 3}, "model": "custom/drinks/glass-empty"},
+        { "predicate": {"custom_model_data": 4}, "model": "custom/drinks/glass2-empty"},
+        { "predicate": {"custom_model_data": 5}, "model": "custom/drinks/small-glass-empty"}
     ]
 }

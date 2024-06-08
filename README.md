@@ -112,7 +112,10 @@ To give yourself a Custom Model Data item use:
 |                       | 13                    | Glass2 Blue
 |                       | 14                    | Glass2 Red
 | **bucket**            | 1                     | Empty Hot Chocolate
-| Empty Drinks          | 2                     | -
+| Empty Drinks          | 2                     | Cocktail Empty
+|                       | 3                     | Glass Empty
+|                       | 4                     | Glass2 Empty
+|                       | 5                     | Small Glass Empty
 | **crossbow**          | 1                     | Water Pistol Charged
 | Splash Battles        | 2                     | Water Gun Charged
 | **crossbow_arrow**    | 1                     | Water Pistol
