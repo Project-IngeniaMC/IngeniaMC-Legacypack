@@ -108,6 +108,9 @@ To give yourself a Custom Model Data item use:
 |                       | 9                     | Small Glass Blue
 |                       | 10                    | Small Glass Green
 |                       | 11                    | Small Glass Red
+|                       | 12                    | Glass2 Yellow
+|                       | 13                    | Glass2 Blue
+|                       | 14                    | Glass2 Red
 | **bucket**            | 1                     | Empty Hot Chocolate
 | Empty Drinks          | 2                     | -
 | **crossbow**          | 1                     | Water Pistol Charged
