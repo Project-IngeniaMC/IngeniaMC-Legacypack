@@ -920,67 +920,76 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/wardrobe.png",
+            "file": "ingeniamc:gui/wardrobe/wardrobe.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "田"
+                "\uEB20"
             ]
         },
 
         
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-hat.png",
+            "file": "ingeniamc:gui/wardrobe/select-hat.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "國"
+                "\uEB21"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-shirt.png",
+            "file": "ingeniamc:gui/wardrobe/select-shirt.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "因"
+                "\uEB22"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-wand.png",
+            "file": "ingeniamc:gui/wardrobe/select-wand.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "圖"
+                "\uEB23"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-balloon.png",
+            "file": "ingeniamc:gui/wardrobe/select-body-wear.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "果"
+                "\uEB24"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-pants.png",
+            "file": "ingeniamc:gui/wardrobe/select-balloon.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "四"
+                "\uEB25"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/wardrobe/select-shoes.png",
+            "file": "ingeniamc:gui/wardrobe/select-pants.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "界"
+                "\uEB26"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/wardrobe/select-shoes.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB27"
             ]
         },
 
