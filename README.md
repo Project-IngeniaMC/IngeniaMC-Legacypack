@@ -67,9 +67,9 @@ To give yourself a Custom Model Data item use:
 |                       | 7                     | Books
 |                       | 8                     | Golden Band
 |                       | 9                     | Black Hat
-|                       | 10                    | -
-|                       | 11                    | -
-|                       | 12                    | -
+|                       | 10                    | Mannequin (used to create body wear cosmetics)
+|                       | 11                    | Swim Ring (default)
+|                       | 12                    | Duck Swim Ring
 |                       | 13                    | -
 |                       | 14                    | -
 |                       | 15                    | M64DiamondStar Hat
