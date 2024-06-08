@@ -4,10 +4,34 @@
 
 # IngeniaMC-Resourcepack
 
-This is the private repository for the IngeniaMC Resourcepack.
+This is the private repository for the IngeniaMC Resourcepack. Here are all of the models & textures that the IngeniaMC server uses.
 
 # Custom Model Data
+To show all of the models we have in the server we use Custom Model Data. This makes it so that we can add an unlimited amount of items to the server.  To help us know what everything is we have made a list with all the Custom Model Data:
 <details>
+To give yourself a Custom Model Data item use: `/give @p ITEM{CustomModelData:NUMBER}`
+
+<details>
+<summary>Item List</summary>
+
+| Item                | Category
+|------------         |---------
+| diamond_sword       | Attractions
+| iron_sword          | Comsetics
+| amethyst_shard      | Wand Clash
+| cooked_beef         | Food
+| milk_bucket         | Drinks
+| bucket              | Empty Drinks
+| crossbow            | Splash Battles
+| crossbow_arrow      | Splash Battles
+| diamond_shovel      | Ride Extras
+| feather             | GUI
+| golden_sword        | Tracks
+| iron_nugget         | Event
+| stick               | Arms
+| leather_horse_armor | Decorations
+
+</details>
 
 <summary>Custom Model Data</summary>
 
