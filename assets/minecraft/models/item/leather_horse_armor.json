@@ -12,6 +12,16 @@
     { "predicate": {"custom_model_data": 6}, "model": "custom/other/skeletons/skeleton1"},
     { "predicate": {"custom_model_data": 7}, "model": "custom/other/skeletons/skeleton2"},
     { "predicate": {"custom_model_data": 8}, "model": "custom/other/skeletons/skeleton3"},
-    { "predicate": {"custom_model_data": 9}, "model": "custom/other/skeletons/skeleton4"}
+    { "predicate": {"custom_model_data": 9}, "model": "custom/other/skeletons/skeleton4"},
+    { "predicate": {"custom_model_data": 10}, "model": "custom/decoration/props/spotlight_straight"},
+    { "predicate": {"custom_model_data": 11}, "model": "custom/decoration/props/spotlight_angle_22_5"},
+    { "predicate": {"custom_model_data": 12}, "model": "custom/decoration/props/spotlight_angle_45"},
+    { "predicate": {"custom_model_data": 13}, "model": "custom/decoration/props/spotlight_angle_67_5"},
+    { "predicate": {"custom_model_data": 14}, "model": "custom/decoration/props/spotlight_angle_90"},
+    { "predicate": {"custom_model_data": 15}, "model": "custom/decoration/props/spotlight_angle_112_5"},
+    { "predicate": {"custom_model_data": 16}, "model": "custom/decoration/props/spotlight_angle_135"},
+    { "predicate": {"custom_model_data": 17}, "model": "custom/decoration/props/spotlight_no_base"},
+    { "predicate": {"custom_model_data": 18}, "model": "custom/decoration/props/spotlight_rainbow_fade"},
+    { "predicate": {"custom_model_data": 19}, "model": "custom/decoration/props/spotlight_rainbow_flash"}
   ]
 }
