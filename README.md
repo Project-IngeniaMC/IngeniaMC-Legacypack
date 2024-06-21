@@ -18,41 +18,62 @@ To give yourself a Custom Model Data item use:
 <details>
 <summary>Item List</summary>
 
-| Item                | Category        |   Custom Model Data
-|------------         |---------        |-------------------
-| diamond_sword       | Attractions     | 1->999 **Global**
-|                     |                 | 1000 -> 1999 **Magic Village**
-|                     |                 | 2000 -> 2999 **Sandy Town**
-|                     |                 | 3000 -> 3999 **Vina Tropica**
-|                     |                 | 4000 -> 4999 **Sakura Valley**
-| iron_sword          | Comsetics       | 1->999 **Global**
-|                     |                 | 1000 -> 1999 **Magic Village**
-|                     |                 | 2000 -> 2999 **Sandy Town**
-|                     |                 | 3000 -> 3999 **Vina Tropica**
-|                     |                 | 4000 -> 4999 **Sakura Valley**
-| amethyst_shard      | Wand Clash      | 
-| cooked_beef         | Food            | 1->2999 **Global**
-|                     |                 | 3000 -> 3999 **Summer Event**
-|                     |                 | 4000 -> 4999 **Winter Event**
-| milk_bucket         | Drinks          | 1->2999 **Global**
-|                     |                 | 3000 -> 3999 **Summer Event**
-|                     |                 | 4000 -> 4999 **Winter Event**
-| bucket              | Empty Drinks    | 1->2999 **Global**
-|                     |                 | 3000 -> 3999 **Summer Event**
-|                     |                 | 4000 -> 4999 **Winter Event**
-| crossbow            | Splash Battles  | 
-| crossbow_arrow      | Splash Battles  | 
-| feather             | GUI             |  
-| iron_nugget         | Event           | 1->999 **Summer Event**
-|                     |                 | 1000 -> 1999 **Winter Event**
-| stick               | Arms            | 
-| leather_horse_armor | Decorations     | 1->999 **Global**
-|                     |                 | 1000 -> 1999 **Magic Village**
-|                     |                 | 2000 -> 2999 **Sandy Town**
-|                     |                 | 3000 -> 3999 **Vina Tropica**
-|                     |                 | 4000 -> 4999 **Sakura Valley**
-|                     |                 | 5000 -> 5999 **Summer Event**
-|                     |                 | 6000 -> 6999 **Winter Event**
+| Item                |   Custom Model Data
+|------------         |-------------------
+| **diamond_sword**   | 1->999 **Global**
+| Attractions         | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
+| **diamond_shovel**  | 1->999 **Global**
+| Attractions Extra   | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
+| **gold_sword**      | 1->999 **Global**
+| Tracks              | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+| **iron_sword**      | 1->999 **Global**
+| Cosmetics           | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
+| **amethyst_shard**  | 
+| Wand Clash          |
+| **cooked_beef**     | 1->999 **Global**
+| Food                | 1000 -> 1999 **Summer Event**
+|                     | 2000 -> 2999 **Winter Event**
+| **milk_bucket**     | 1->999 **Global**
+| Drinks              | 1000 -> 1999 **Summer Event**
+|                     | 2000 -> 2999 **Winter Event**
+| **bucket**          | 1->999 **Global**
+| Empty Drinks        | 1000 -> 1999 **Summer Event**
+|                     | 2000 -> 2999 **Winter Event**
+| **crossbow**        |
+| Splash Battles      |
+| **crossbow_arrow**  | 
+| Splash Battles      |                 
+| **feather**         |  
+| GUI                 |
+| **iron_nugget**     | 1->999 **Summer Event**
+| Event               | 1000 -> 1999 **Winter Event**
+| **stick**           | 
+| Arms                |  
+| **leather_horse_armor**| 1->999 **Global**
+|  Decoration         | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
 
 </details>
 
@@ -63,52 +84,54 @@ To give yourself a Custom Model Data item use:
 | --------------        | :-:                   | -------------
 | **diamond_sword**     | 1                     | Parktrain Wagon
 | Attractions           | 2                     | Parktrain Loco
-|                       | 3                     | Wizard Waters
-|                       | 4                     | -
-|                       | 5                     | -
-|                       | 6                     | Wooden Coaster
-|                       | 7                     | Sand Snake
-|                       | 8                     | Sled
-|                       | 9                     | Dragons Obelisk
-|                       | 10                    | Pyraculus
-|                       | 11                    | Enchanted Flight
-|                       | 12                    | Canoe Trip
-|                       | 13                    | Rapids Of Mayhem
-|                       | 14                    | Rapids Of Mayhem Front
-|                       | 15                    | Sakura Swirl Black
-|                       | 16                    | Sakura Swirl White
-| **iron_sword**        | 1                     | Red Cross
-| Cosmetics             | 2                     | Blue Circle
-|                       | 3                     | Owner Crown
-|                       | 4                     | White Mouth Mask
-|                       | 5                     | Black Mouth Mask
-|                       | 6                     | Face Mask
-|                       | 7                     | Books
-|                       | 8                     | Golden Band
-|                       | 9                     | Black Hat
-|                       | 10                    | Mannequin (used to create body wear cosmetics)
-|                       | 11                    | Swim Ring (default)
-|                       | 12                    | Duck Swim Ring
-|                       | 13                    | -
-|                       | 14                    | -
-|                       | 15                    | M64DiamondStar Hat
-|                       | 16                    | Avontuuriergamer Hat
-|                       | 17                    | Purple Wizard Hat
-|                       | 18                    | Orange Wizard Hat
-|                       | 19                    | Green Wizard Hat
-|                       | 20                    | Red Wizard Hat
-|                       | 21                    | Purple Dragon Hat
-|                       | 22                    | Orange Dragon Hat
-|                       | 23                    | Green Dragon Hat
-|                       | 24                    | Red Dragon Hat
-|                       | 25                    | Japanese Hat
-|                       | 26                    | Simple Backpack
-|                       | 27                    | Simple Wings
-|                       | 28                    | Chef Toque
-|                       | 29                    | Straw Hat
-|                       | 30                    | Ranger Hat
-|                       | 31                    | Reversed Straw Hat
-|                       | 32                    | Sombrero
+|                       | 1000                  | Wizard Waters
+|                       | 1001                  | Dragons Obelisk
+|                       | 1002                  | Enchanted Flight
+|                       | 2000                  | Wooden Coaster
+|                       | 2001                  | Sand Snake
+|                       | 2002                  | Pyraculus
+|                       | 3000                  | Canoe Trip
+|                       | 3001                  | Rapids Of Mayhem
+|                       | 3002                  | Rapids Of Mayhem Front
+|                       | 4000                  | Sakura Swirl Black
+|                       | 4001                  | Sakura Swirl White
+|                       | 5000                  | Sled
+| **iron_sword**        | 1                     | Simple Backpack
+| Cosmetics             | 2                     | Simple Wings
+|                       | 3                     | Avontuuriergamer Hat
+|                       | 4                     | M64DiamondStar Hat
+|                       | 5                     | Chef Toque
+|                       | 6                     | Owner Crown
+|                       | 7                     | Black Hat
+|                       | 8                     | Black Mouth Mask
+|                       | 9                     | Face Mask
+|                       | 10                    | White Mouth Mask
+|                       | 11                    | Mannequin (Create Bodywear)
+|                       | 1000                  | Green Dragon Hat
+|                       | 1001                  | Orange Dragon Hat
+|                       | 1002                  | Purple Dragon Hat
+|                       | 1003                  | Red Dragon Hat
+|                       | 1004                  | Green Wizard Hat
+|                       | 1005                  | Orange Wizard Hat
+|                       | 1006                  | Purple Wizard Hat
+|                       | 1007                  | Red Wizard Hat
+|                       | 1008                  | Goblin Handheld
+|                       | 1009                  | Goblin Hat Breakdancing
+|                       | 1010                  | Goblin Hat Lying
+|                       | 1020                  | Goblin Hat Waving
+|                       | 2000                  | Camel Hat
+|                       | 3000                  | Ranger Hat
+|                       | 3001                  | Reversed Straw Hat
+|                       | 3002                  | Sombrero
+|                       | 3003                  | Straw Hat
+|                       | 4000                  | Japanese Hat
+|                       | 5000                  | Swimming Ring
+|                       | 5001                  | Duck Swimming Ring
+|                       | 5002                  | Turtle Swimming Ring
+|                       | 6000                  | Golden Band
+|                       | 6001                  | Rudolph Reindeer
+|                       | 6002                  | Santa Hat
+|                       | 6003                  | Golden Santa Hat
 | **amethyst_shard**    | 1                     | Branch wand
 | Wand Clash            | 2                     | Shield Hexagon
 |                       | 3                     | Magical Arrow
@@ -116,35 +139,35 @@ To give yourself a Custom Model Data item use:
 | Food                  | 2                     | Hot Dog
 |                       | 3                     | Fries
 |                       | 4                     | Holy Tomato
-| **milk_bucket**       | 1                     | Hot Chocolate
-| Drinks                | 2                     | Hot Chocolate Cream
-|                       | 3                     | Cocktail Blue Lemon
-|                       | 4                     | Cocktail Green Lemon
-|                       | 5                     | Cocktail Purple Lemon
-|                       | 6                     | Glass Blue Leave
-|                       | 7                     | Glass Pink Leave
-|                       | 8                     | Glass Red Leave
-|                       | 9                     | Small Glass Blue
-|                       | 10                    | Small Glass Green
-|                       | 11                    | Small Glass Red
-|                       | 12                    | Glass2 Yellow
-|                       | 13                    | Glass2 Blue
-|                       | 14                    | Glass2 Red
-| **bucket**            | 1                     | Empty Hot Chocolate
-| Empty Drinks          | 2                     | Cocktail Empty
-|                       | 3                     | Glass Empty
-|                       | 4                     | Glass2 Empty
-|                       | 5                     | Small Glass Empty
+| **milk_bucket**       | 1000                  | Cocktail Blue Lemon
+| drinks                | 1001                  | Cocktail Green Lemon
+|                       | 1002                  | Cocktail Purple Lemon
+|                       | 1003                  | Glass Blue Leave
+|                       | 1004                  | Glass Pink Leave
+|                       | 1005                  | Glass Red Leave
+|                       | 1006                  | Small Glass Blue
+|                       | 1007                  | Small Glass Green
+|                       | 1008                  | Small Glass Red
+|                       | 1009                  | Glass2 Yellow
+|                       | 1010                  | Glass2 Blue
+|                       | 1011                  | Glass2 Red
+|                       | 2000                  | Hot Chocolate
+|                       | 2001                  | Hot Chocolate Cream
+| **bucket**            | 1000                  | Cocktail Empty
+| Empty Drinks          | 1001                  | Glass Empty
+|                       | 1002                  | Glass2 Empty
+|                       | 1003                  | Small Glass Empty
+|                       | 2000                  | Empty Hot Chocolate
 | **crossbow**          | 1                     | Water Pistol Charged
 | Splash Battles        | 2                     | Water Gun Charged
 | **crossbow_arrow**    | 1                     | Water Pistol
 | Splash Battles        | 2                     | Water Gun
-| **diamond_shovel**    | 1                     | Sand Snake Snake Head Top
-| Ride Extras           | 2                     | Sand Snake Snake Head Bottom
-|                       | 3                     | Pyraculus Door Left
-|                       | 4                     | Pyraculus Door Right
-|                       | 5                     | Wizard Waters Elevator
-|                       | 6                     | Wizard Waters Gate
+| **diamond_shovel**    | 1000                  | Wizard Waters Gate
+| Attractions Extras    | 1001                  | Wizard Waters Elevator
+|                       | 2000                  | Pyraculus Door Left
+|                       | 2001                  | Pyraculus Door Right
+|                       | 2002                  | Sand Snake Snake Head Top
+|                       | 2003                  | Sand Snake Snake Head Bottom
 | **feather**           | 1                     | Empty Pane
 | GUI                   | 2                     | Green Speech Bubble
 |                       | 3                     | Red Speech Bubble
@@ -153,20 +176,15 @@ To give yourself a Custom Model Data item use:
 |                       | 6                     | Number 3
 |                       | 7                     | Number 4
 |                       | 8                     | GUI Colorable
-| **golden_sword**      | 1                     | Rapids Of Mayhem Track
-| Tracks                | 2                     | Rapids Of Mayhem Track Small 1
-|                       | 3                     | Rapids Of Mayhem Track Small 2
+| **gold_sword**        | 3000                  | Rapids Of Mayhem Track
+| Tracks                | 3001                  | Rapids Of Mayhem Track Small 1
+|                       | 3002                  | Rapids Of Mayhem Track Small 2
 | **iron_nugget**       | 1                     | Splash Battles Logo
 | Event                 | 2                     | Beach Con Bar
-|                       | 3                     | Fog
 |                       | 4                     | DJ Table
-|                       | 5                     | Rudolph Reindeer
-|                       | 6                     | Santa Hat
-|                       | 7                     | Snowman
-|                       | 8                     | Golden Santa Hat
-|                       | 9                     | Colorable Slide
-|                       | 10                    | Colorable Surfboard
-|                       | 11                    | Water Balloon
+|                       | 5                     | Colorable Slide
+|                       | 6                     | Colorable Surfboard
+|                       | 7                     | Water Balloon
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm
@@ -180,10 +198,10 @@ To give yourself a Custom Model Data item use:
 |                       | 3                     | Thick Colorable Book
 |                       | 4                     | Extremely Thick Colorable Book
 |                       | 5                     | Extremely Extremely Thick Colorable Book
-|                       | 6                     | Skeleton 1
-|                       | 7                     | Skeleton 2
-|                       | 8                     | Skeleton 3
-|                       | 9                     | Skeleton 4
+|                       | 2000                  | Skeleton 1
+|                       | 2001                  | Skeleton 2
+|                       | 2002                  | Skeleton 3
+|                       | 2003                  | Skeleton 4
 
 </details>
 
