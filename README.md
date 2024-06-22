@@ -198,6 +198,17 @@ To give yourself a Custom Model Data item use:
 |                       | 3                     | Thick Colorable Book
 |                       | 4                     | Extremely Thick Colorable Book
 |                       | 5                     | Extremely Extremely Thick Colorable Book
+|                       | 6                     | Spotlight Straight
+|                       | 7                     | Spotlight RGB
+|                       | 8                     | Spotlight Rainbow Flash
+|                       | 9                     | Spotlight Rainbow Fade
+|                       | 10                    | Spotlight No Base
+|                       | 11                    | Spotlight Angle 135
+|                       | 12                    | Spotlight Angle 112,5
+|                       | 13                    | Spotlight Angle 90
+|                       | 14                    | Spotlight Angle 67,5
+|                       | 15                    | Spotlight Angle 45
+|                       | 16                    | Spotlight Angle 22,5
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
