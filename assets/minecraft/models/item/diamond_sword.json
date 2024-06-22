@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/diamond_sword"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "areas/global/attractions/parktrain/parktrain_wagon"},
+        { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:/models/areas/global/attractions/parktrain/parktrain_wagon"},
         { "predicate": {"custom_model_data": 2}, "model": "custom/rides/parktrain/parktrain_loco"},
         { "predicate": {"custom_model_data": 3}, "model": "custom/rides/wizardwaters/wizard_waters"},
         
