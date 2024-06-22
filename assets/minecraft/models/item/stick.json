@@ -10,7 +10,6 @@
         { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:areas/global/cosmetics/arms/brown_arm"},
         { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:areas/global/cosmetics/arms/darker_arm"},
         { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:areas/global/cosmetics/arms/green_arm"},
-        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:areas/global/cosmetics/arms/skeleton_arm"},
-        { "predicate": {"custom_model_data": 8}, "model": "ingeniamc:areas/global/cosmetics/arms/blank_arm"}
+        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:areas/global/cosmetics/arms/skeleton_arm"}
     ]
 }

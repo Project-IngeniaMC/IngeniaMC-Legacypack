@@ -17,7 +17,6 @@
         { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:gui/number_1"},
         { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:gui/number_2"},
         { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:gui/number_3"},
-        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:gui/number_4"},
-        { "predicate": {"custom_model_data": 8}, "model": "ingeniamc:gui/colorable"}
+        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:gui/number_4"}
     ]
 }

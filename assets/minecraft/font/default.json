@@ -1,33 +1,5 @@
 {
     "providers": [
-
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/title1.png",
-            "height": 128,
-            "ascent": 55,
-            "chars": [
-                "\uE000"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/title2.png",
-            "height": 128,
-            "ascent": 55,
-            "chars": [
-                "\uE001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/title4.png",
-            "height": 128,
-            "ascent": 55,
-            "chars": [
-                "\uE004"
-            ]
-        },
         {
             "type": "bitmap",
             "file": "ingeniamc:font/title/title_part_1.png",
@@ -997,34 +969,34 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/warps/ride-warps.png",
+            "file": "ingeniamc:gui/warps/ride-warps.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "金"
+                "\uEB30"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/warps/shop-warps.png",
+            "file": "ingeniamc:gui/warps/shop-warps.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "港"
+                "\uEB31"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/rank_perks/rank_perks.png",
+            "file": "ingeniamc:gui/rank_perks/rank_perks.png",
             "height": 196,
             "ascent": 13,
             "chars": [
-                "を"
+                "\uEB32"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/rank_perks/join_leave_message/editing_join_message.png",
+            "file": "ingeniamc:gui/rank_perks/join_leave_message/editing_join_message.png",
             "height": 196,
             "ascent": 13,
             "chars": [
@@ -1033,7 +1005,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/custom/rank_perks/join_leave_message/editing_leave_message.png",
+            "file": "ingeniamc:gui/rank_perks/join_leave_message/editing_leave_message.png",
             "height": 196,
             "ascent": 13,
             "chars": [
@@ -1051,43 +1023,15 @@
             ]
         },
 
+
+        
         {
             "type": "bitmap",
             "file": "ingeniamc:chat/icon/level_up.png",
             "height": 50,
             "ascent": 6,
             "chars": [
-                "\uFE01"
-            ]
-        },
-
-        {
-            "type": "bitmap",
-            "file": "ingeniamc:chat/icon/dirt.png",
-            "height": 16,
-            "ascent": 16,
-            "chars": [
-                "\uFE02"
-            ]
-        },
-
-        {
-            "type": "bitmap",
-            "file": "ingeniamc:chat/icon/dirt_2.png",
-            "height": 256,
-            "ascent": 15.5,
-            "chars": [
-                "\uFE03"
-            ]
-        },
-
-        {
-            "type": "bitmap",
-            "file": "ingeniamc:chat/icon/dirt_2.png",
-            "height": 256,
-            "ascent": 15,
-            "chars": [
-                "\uFE04"
+                "\uE01F"
             ]
         },
 
@@ -1102,7 +1046,7 @@
             "height": 64,
             "ascent": 46,
             "chars": [
-                "\uFD00"
+                "\uE001"
             ]
         },
 
@@ -1112,7 +1056,7 @@
             "height": 100,
             "ascent": 60,
             "chars": [
-                "\uFF00"
+                "\uEE00"
             ]
         },
         {
@@ -1121,7 +1065,7 @@
             "height": 90,
             "ascent": 60,
             "chars": [
-                "\uFF01"
+                "\uEE01"
             ]
         },
         {
@@ -1130,7 +1074,7 @@
             "height": 90,
             "ascent": 60,
             "chars": [
-                "\uFF02"
+                "\uEE02"
             ]
         },
         {
@@ -1139,7 +1083,7 @@
             "height": 90,
             "ascent": 60,
             "chars": [
-                "\uFF03"
+                "\uEE03"
             ]
         },
 

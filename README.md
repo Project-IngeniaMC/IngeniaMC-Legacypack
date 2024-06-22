@@ -63,17 +63,23 @@ To give yourself a Custom Model Data item use:
 | Splash Battles      |                 
 | **feather**         |  
 | GUI                 |
-| **iron_nugget**     | 1->999 **Summer Event**
-| Event               | 1000 -> 1999 **Winter Event**
-| **stick**           | 
-| Arms                |  
-| **leather_horse_armor**| 1->999 **Global**
-|  Decoration         | 1000 -> 1999 **Magic Village**
+| **iron_nugget**      | 1->999 **Global**
+| Decoration          | 1000 -> 1999 **Magic Village**
 |                     | 2000 -> 2999 **Sandy Town**
 |                     | 3000 -> 3999 **Vina Tropica**
 |                     | 4000 -> 4999 **Sakura Valley**
 |                     | 5000 -> 5999 **Summer Event**
 |                     | 6000 -> 6999 **Winter Event**
+| **stick**           | 
+| Arms                |  
+| **leather_horse_armor**| 1->999 **Global**
+|  Colorable Decoration| 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
+|  GUI                | 7000 -> 7999 **Global**
 
 </details>
 
@@ -175,16 +181,19 @@ To give yourself a Custom Model Data item use:
 |                       | 5                     | Number 2
 |                       | 6                     | Number 3
 |                       | 7                     | Number 4
-|                       | 8                     | GUI Colorable
 | **gold_sword**        | 3000                  | Rapids Of Mayhem Track
 | Tracks                | 3001                  | Rapids Of Mayhem Track Small 1
 |                       | 3002                  | Rapids Of Mayhem Track Small 2
-| **iron_nugget**       | 1                     | Splash Battles Logo
-| Event                 | 2                     | Beach Con Bar
-|                       | 4                     | DJ Table
-|                       | 5                     | Colorable Slide
-|                       | 6                     | Colorable Surfboard
-|                       | 7                     | Water Balloon
+| **iron_nugget**       | 2000                  | Skeleton 1
+| Decoration            | 2001                  | Skeleton 2
+|                       | 2002                  | Skeleton 3
+|                       | 2003                  | Skeleton 4
+|                       | 5000                  | Splash Battles Logo
+|                       | 5001                  | Beach Con Bar
+|                       | 5002                  | DJ Table
+|                       | 5003                  | Colorable Slide
+|                       | 5004                  | Colorable Surfboard
+|                       | 5005                  | Water Balloon
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm
@@ -192,9 +201,8 @@ To give yourself a Custom Model Data item use:
 |                       | 5                     | Darker Arm
 |                       | 6                     | Green Arm
 |                       | 7                     | Skeleton Arm
-|                       | 8                     | Blank Arm
 | **leather_horse_armor**| 1                    | Thin Colorable Book
-| Decorations           | 2                     | Default Colorable Book
+| Colorable Decoration  | 2                     | Default Colorable Book
 |                       | 3                     | Thick Colorable Book
 |                       | 4                     | Extremely Thick Colorable Book
 |                       | 5                     | Extremely Extremely Thick Colorable Book
@@ -209,10 +217,12 @@ To give yourself a Custom Model Data item use:
 |                       | 14                    | Spotlight Angle 67,5
 |                       | 15                    | Spotlight Angle 45
 |                       | 16                    | Spotlight Angle 22,5
+|                       | 17                    | Blank Arm
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
+| GUI                   | 7000                  | Colorable circle
 
 </details>
 

@@ -20,9 +20,11 @@
     { "predicate": {"custom_model_data": 14}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_angle_67_5"},
     { "predicate": {"custom_model_data": 15}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_angle_45"},
     { "predicate": {"custom_model_data": 16}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_angle_22_5"},
+    { "predicate": {"custom_model_data": 17}, "model": "ingeniamc:areas/global/cosmetics/arms/blank_arm"},
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},
     { "predicate": {"custom_model_data": 2002}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"},
-    { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"}
+    { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"},
+    { "predicate": {"custom_model_data": 7000}, "model": "ingeniamc:gui/colorable"}
   ]
 }

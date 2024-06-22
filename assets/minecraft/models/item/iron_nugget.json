@@ -4,11 +4,15 @@
     "layer0": "minecraft:item/iron_nugget"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:events/summer_event/decorations/splash_battles"},
-      { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:events/summer_event/decorations/beach_con_bar"},
-      { "predicate": {"custom_model_data": 3}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
-      { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
-      { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:events/summer_event/decorations/colorable_surfboard"},
-      { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"}
+    { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
+    { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},
+    { "predicate": {"custom_model_data": 2002}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"},
+    { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"},
+    { "predicate": {"custom_model_data": 5000}, "model": "ingeniamc:events/summer_event/decorations/splash_battles"},
+    { "predicate": {"custom_model_data": 5001}, "model": "ingeniamc:events/summer_event/decorations/beach_con_bar"},
+    { "predicate": {"custom_model_data": 5002}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
+    { "predicate": {"custom_model_data": 5003}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
+    { "predicate": {"custom_model_data": 5004}, "model": "ingeniamc:events/summer_event/decorations/colorable_surfboard"},
+    { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"}
   ]
 }
