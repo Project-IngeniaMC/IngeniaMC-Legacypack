@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/golden_sword"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "custom/ride-extra/rapidsofmayhem/track"},
-        { "predicate": {"custom_model_data": 2}, "model": "custom/ride-extra/rapidsofmayhem/track_small_1"},
-        { "predicate": {"custom_model_data": 3}, "model": "custom/ride-extra/rapidsofmayhem/track_small_2"}
+        { "predicate": {"custom_model_data": 3000}, "model": "ingeniamc:areas/vina_tropica/attractions/rapids_of_mayhem/track"},
+        { "predicate": {"custom_model_data": 3001}, "model": "ingeniamc:areas/vina_tropica/attractions/rapids_of_mayhem/track_small_1"},
+        { "predicate": {"custom_model_data": 3002}, "model": "ingeniamc:areas/vina_tropica/attractions/rapids_of_mayhem/track_small_2"}
     ]
 }

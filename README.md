@@ -95,7 +95,7 @@ To give yourself a Custom Model Data item use:
 |                       | 3002                  | Rapids Of Mayhem Front
 |                       | 4000                  | Sakura Swirl Black
 |                       | 4001                  | Sakura Swirl White
-|                       | 5000                  | Sled
+|                       | 6000                  | Sled
 | **iron_sword**        | 1                     | Simple Backpack
 | Cosmetics             | 2                     | Simple Wings
 |                       | 3                     | Avontuuriergamer Hat
@@ -118,7 +118,7 @@ To give yourself a Custom Model Data item use:
 |                       | 1008                  | Goblin Handheld
 |                       | 1009                  | Goblin Hat Breakdancing
 |                       | 1010                  | Goblin Hat Lying
-|                       | 1020                  | Goblin Hat Waving
+|                       | 1011                  | Goblin Hat Waving
 |                       | 2000                  | Camel Hat
 |                       | 3000                  | Ranger Hat
 |                       | 3001                  | Reversed Straw Hat

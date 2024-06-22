@@ -11,13 +11,13 @@
         }
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "custom/gui/empty_pane"},
-        { "predicate": {"custom_model_data": 2}, "model": "custom/gui/green_speech_bubble"},
-        { "predicate": {"custom_model_data": 3}, "model": "custom/gui/red_speech_bubble"},
-        { "predicate": {"custom_model_data": 4}, "model": "custom/gui/number_1"},
-        { "predicate": {"custom_model_data": 5}, "model": "custom/gui/number_2"},
-        { "predicate": {"custom_model_data": 6}, "model": "custom/gui/number_3"},
-        { "predicate": {"custom_model_data": 7}, "model": "custom/gui/number_4"},
-        { "predicate": {"custom_model_data": 8}, "model": "custom/gui/colorable"}
+        { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:gui/empty_pane"},
+        { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:gui/green_speech_bubble"},
+        { "predicate": {"custom_model_data": 3}, "model": "ingeniamc:gui/red_speech_bubble"},
+        { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:gui/number_1"},
+        { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:gui/number_2"},
+        { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:gui/number_3"},
+        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:gui/number_4"},
+        { "predicate": {"custom_model_data": 8}, "model": "ingeniamc:gui/colorable"}
     ]
 }

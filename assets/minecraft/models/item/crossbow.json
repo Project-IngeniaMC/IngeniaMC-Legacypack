@@ -67,14 +67,14 @@
                 "charged": 1,
                 "custom_model_data": 1
             },
-            "model": "custom/toys/water_pistol_charged"
+            "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_pistol_charged"
         },
         {
             "predicate": {
                 "charged": 1,
                 "custom_model_data": 2
             },
-            "model": "custom/toys/water_gun_charged"
+            "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_gun_charged"
         },
 
 
@@ -82,13 +82,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/toys/water_pistol_charged"
+            "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_pistol_charged"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/toys/water_gun_charged"
+            "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_gun_charged"
         }
     ]
 }

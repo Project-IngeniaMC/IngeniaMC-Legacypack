@@ -4,10 +4,11 @@
     "layer0": "minecraft:item/bucket"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "custom/food/emptyhotchocolate"},
-        { "predicate": {"custom_model_data": 2}, "model": "custom/drinks/cocktail-empty"},
-        { "predicate": {"custom_model_data": 3}, "model": "custom/drinks/glass-empty"},
-        { "predicate": {"custom_model_data": 4}, "model": "custom/drinks/glass2-empty"},
-        { "predicate": {"custom_model_data": 5}, "model": "custom/drinks/small-glass-empty"}
+        { "predicate": {"custom_model_data": 1000}, "model": "ingeniamc:events/summer_event/nutrition/drinks/cocktail-empty"},
+        { "predicate": {"custom_model_data": 1001}, "model": "ingeniamc:events/summer_event/nutrition/drinks/glass-empty"},
+        { "predicate": {"custom_model_data": 1002}, "model": "ingeniamc:events/summer_event/nutrition/drinks/glass2-empty"},
+        { "predicate": {"custom_model_data": 1003}, "model": "ingeniamc:events/summer_event/nutrition/drinks/small-glass-empty"},
+
+        { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:events/winter_event/nutrition/drinks/emptyhotchocolate"}
     ]
 }

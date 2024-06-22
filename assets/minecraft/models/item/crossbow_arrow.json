@@ -4,7 +4,7 @@
         "layer0": "item/crossbow_arrow"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "custom/toys/water_pistol"},
-        { "predicate": {"custom_model_data": 2}, "model": "custom/toys/water_gun"}
+        { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_pistol"},
+        { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/water_gun"}
     ]
 }

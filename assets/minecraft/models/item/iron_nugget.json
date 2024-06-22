@@ -4,16 +4,11 @@
     "layer0": "minecraft:item/iron_nugget"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 1}, "model": "custom/signs/splash_battles"},
-      { "predicate": {"custom_model_data": 2}, "model": "custom/signs/beach_con_bar"},
-      { "predicate": {"custom_model_data": 3}, "model": "custom/other/fog"},
-      { "predicate": {"custom_model_data": 4}, "model": "custom/other/dj_table"},
-      { "predicate": {"custom_model_data": 5}, "model": "custom/wearables/rudolph_reindeer"},
-      { "predicate": {"custom_model_data": 6}, "model": "custom/wearables/santa_hat"},
-      { "predicate": {"custom_model_data": 7}, "model": "custom/other/snowman"},
-      { "predicate": {"custom_model_data": 8}, "model": "custom/wearables/golden_santa_hat"},
-      { "predicate": {"custom_model_data": 9}, "model": "custom/rides/slides/colorable-slide"},
-      { "predicate": {"custom_model_data": 10}, "model": "custom/vehicles/surfboards/colorable_surfboard"},
-      { "predicate": {"custom_model_data": 11}, "model": "custom/throwables/waterballoon"}
+      { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:events/summer_event/decorations/splash_battles"},
+      { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:events/summer_event/decorations/beach_con_bar"},
+      { "predicate": {"custom_model_data": 3}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
+      { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
+      { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:events/summer_event/decorations/colorable_surfboard"},
+      { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"}
   ]
 }
