@@ -614,6 +614,54 @@
                 "\uE044"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:font/rank_labels/lead_with_icon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:font/rank_labels/team_with_icon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:font/rank_labels/vip_plus_with_icon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:font/rank_labels/vip_with_icon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:font/rank_labels/visitor_with_icon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE049"
+            ]
+        },
+
+
+
 
 
 
