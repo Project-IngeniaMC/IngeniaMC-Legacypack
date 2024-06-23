@@ -11,7 +11,7 @@
                 "powered": "false"
             },
             "apply": {
-                "model": "custom/plants/winter/snowy_tall_grass"
+                "model": "ingeniamc:events/winter_event/decorations/snowy_tall_grass"
             }
         }
     ]
