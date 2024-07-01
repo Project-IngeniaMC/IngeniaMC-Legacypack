@@ -43,7 +43,7 @@
         { "predicate": {"custom_model_data": 5001}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/duck_ring"},
         { "predicate": {"custom_model_data": 5002}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/turtle_ring"},
         { "predicate": {"custom_model_data": 5003}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring_green"},
-        { "predicate": {"custom_model_data": 5004}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/duck_ring_blue"},
+        { "predicate": {"custom_model_data": 5004}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring_blue"},
         { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/seal_ring"},
 
         { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_band"},
