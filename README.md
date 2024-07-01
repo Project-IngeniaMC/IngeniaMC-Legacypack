@@ -134,6 +134,9 @@ To give yourself a Custom Model Data item use:
 |                       | 5000                  | Swimming Ring
 |                       | 5001                  | Duck Swimming Ring
 |                       | 5002                  | Turtle Swimming Ring
+|                       | 5003                  | Green Swimming Ring
+|                       | 5004                  | Blue Swimming Ring
+|                       | 5005                  | Seal Swimming Ring
 |                       | 6000                  | Golden Band
 |                       | 6001                  | Rudolph Reindeer
 |                       | 6002                  | Santa Hat
