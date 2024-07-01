@@ -222,6 +222,7 @@ To give yourself a Custom Model Data item use:
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
+|                       | 5000                  | Colorable Slide
 | GUI                   | 7000                  | Colorable circle
 
 </details>
