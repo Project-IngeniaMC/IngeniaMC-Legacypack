@@ -40,7 +40,7 @@
 				"east": {"uv": [2.25, 0, 3, 10], "texture": "#1", "tintindex": 0},
 				"south": {"uv": [2.25, 0, 3, 10], "texture": "#1", "tintindex": 0},
 				"west": {"uv": [2.25, 0, 3, 10], "texture": "#1", "tintindex": 0},
-				"up": {"uv": [6, 2, 5.25, 1.25], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [3, 2, 2.25, 1.25], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [6.25, 2, 5.5, 2.75], "rotation": 270, "texture": "#1"}
 			}
 		},
@@ -113,27 +113,23 @@
 			"name": "handle",
 			"origin": [6, -16, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1]
 		},
 		{
 			"name": "rotatable",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "light",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
 					"children": [2, 3]
 				},
 				{
 					"name": "base",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
 					"children": [4, 5]
 				}
 			]
