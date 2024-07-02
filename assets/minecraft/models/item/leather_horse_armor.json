@@ -26,6 +26,8 @@
     { "predicate": {"custom_model_data": 2002}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"},
     { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"},
     { "predicate": {"custom_model_data": 5000}, "model": "ingeniamc:events/summer_event/attractions/slides/colorable-slide"},
+    { "predicate": {"custom_model_data": 5001}, "model": "ingeniamc:events/summer_event/attractions/slides/colorable_slide_1"},
+    { "predicate": {"custom_model_data": 5002}, "model": "ingeniamc:events/summer_event/attractions/slides/colorable_slide_2"},
     { "predicate": {"custom_model_data": 7000}, "model": "ingeniamc:gui/colorable"}
   ]
 }
