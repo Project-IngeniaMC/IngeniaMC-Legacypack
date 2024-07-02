@@ -860,6 +860,243 @@
 
 
 
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/page_1.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB04"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_1_on.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_1_off.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_2_on.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_2_off.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB08"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_3_on.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB09"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_3_off.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_4_on.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_4_off.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_5_on.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/toggle_5_off.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_1_all.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB0F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_1_staff.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEB10"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_1_none.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_2_all.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_2_staff.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_2_none.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_3_all.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_3_staff.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_3_none.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_4_all.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_4_staff.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBA9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_4_none.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBAA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_5_all.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBAB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_5_staff.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBAC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:gui/settings/players_5_none.png",
+            "height": 196,
+            "ascent": 13,
+            "chars": [
+                "\uEBAD"
+            ]
+        },
+
+
+
 
 
         {
