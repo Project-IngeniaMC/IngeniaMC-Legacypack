@@ -138,6 +138,8 @@ To give yourself a Custom Model Data item use:
 |                       | 5004                  | Blue Swimming Ring
 |                       | 5005                  | Seal Swimming Ring
 |                       | 5006                  | Life Buoy
+|                       | 5007                  | Seal Hat
+|                       | 5008                  | Golden Seal Hat
 |                       | 6000                  | Golden Band
 |                       | 6001                  | Rudolph Reindeer
 |                       | 6002                  | Santa Hat

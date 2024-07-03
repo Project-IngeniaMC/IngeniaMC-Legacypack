@@ -46,6 +46,8 @@
         { "predicate": {"custom_model_data": 5004}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring_blue"},
         { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/seal_ring"},
         { "predicate": {"custom_model_data": 5006}, "model": "ingeniamc:events/summer_event/cosmetics/bodywear/lifebuoy"},
+        { "predicate": {"custom_model_data": 5007}, "model": "ingeniamc:events/summer_event/cosmetics/hats/seal"},
+        { "predicate": {"custom_model_data": 5008}, "model": "ingeniamc:events/summer_event/cosmetics/hats/golden_seal"},
 
         { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_band"},
         { "predicate": {"custom_model_data": 6001}, "model": "ingeniamc:events/winter_event/cosmetics/hats/rudolph_reindeer"},
