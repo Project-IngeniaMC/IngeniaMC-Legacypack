@@ -80,6 +80,13 @@ To give yourself a Custom Model Data item use:
 |                     | 5000 -> 5999 **Summer Event**
 |                     | 6000 -> 6999 **Winter Event**
 |  GUI                | 7000 -> 7999 **Global**
+| **snowball**| 1->999 **Global**
+|  Throwables         | 1000 -> 1999 **Magic Village**
+|                     | 2000 -> 2999 **Sandy Town**
+|                     | 3000 -> 3999 **Vina Tropica**
+|                     | 4000 -> 4999 **Sakura Valley**
+|                     | 5000 -> 5999 **Summer Event**
+|                     | 6000 -> 6999 **Winter Event**
 
 </details>
 
@@ -239,6 +246,8 @@ To give yourself a Custom Model Data item use:
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Colorable Slide
 | GUI                   | 7000                  | Colorable circle
+| **snowball**          | 5000                  | Water Balloon
+| Arms                  | 0                     | Reserved
 
 </details>
 
