@@ -1401,6 +1401,15 @@
                 "\uE001"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "ingeniamc:dialogue/skins/beach_guy.png",
+            "height": 64,
+            "ascent": 46,
+            "chars": [
+                "\uE002"
+            ]
+        },
 
         {
             "type": "bitmap",
