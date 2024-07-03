@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ingeniamc:title/summer_event_titles/30",
+		"1": "ingeniamc:title/summer_event_titles/empty",
+		"particle": "ingeniamc:title/summer_event_titles/30"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 0],
+			"to": [24, 32, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.8915, 1.29032], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.96774, 2.06452], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.1085, 2.1349], "texture": "#1"},
+				"up": {"uv": [0, 0, 0.79765, 1.24927], "texture": "#1"},
+				"down": {"uv": [0, 0, 1.03226, 1.36657], "texture": "#1"}
+			}
+		}
+	]
+}

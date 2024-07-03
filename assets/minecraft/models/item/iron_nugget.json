@@ -16,6 +16,11 @@
     { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"},
     { "predicate": {"custom_model_data": 5006}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_1"},
     { "predicate": {"custom_model_data": 5007}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_2"},
-    { "predicate": {"custom_model_data": 5008}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_3"}
+    { "predicate": {"custom_model_data": 5008}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_3"},
+    { "predicate": {"custom_model_data": 5009}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_4"},
+    { "predicate": {"custom_model_data": 5010}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_5"},
+    { "predicate": {"custom_model_data": 5011}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_6"},
+    { "predicate": {"custom_model_data": 5012}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_7"},
+    { "predicate": {"custom_model_data": 5013}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_8"}
   ]
 }

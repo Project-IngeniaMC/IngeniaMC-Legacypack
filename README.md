@@ -202,7 +202,12 @@ To give yourself a Custom Model Data item use:
 |                       | 5005                  | Water Balloon
 |                       | 5006                  | Summer Event Title
 |                       | 5007                  | Summer Event Title
-|                       | 5008                  | Summer Event Title
+|                       | 5009                  | Summer Event Title
+|                       | 5010                  | Summer Event Title
+|                       | 5011                  | Summer Event Title
+|                       | 5012                  | Summer Event Title
+|                       | 5013                  | Summer Event Title
+|                       | 5014                  | Summer Event Title
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm
