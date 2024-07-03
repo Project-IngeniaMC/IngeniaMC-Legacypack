@@ -200,6 +200,9 @@ To give yourself a Custom Model Data item use:
 |                       | 5003                  | Colorable Slide
 |                       | 5004                  | Colorable Surfboard
 |                       | 5005                  | Water Balloon
+|                       | 5006                  | Summer Event Title
+|                       | 5007                  | Summer Event Title
+|                       | 5008                  | Summer Event Title
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm

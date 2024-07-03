@@ -13,6 +13,9 @@
     { "predicate": {"custom_model_data": 5002}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
     { "predicate": {"custom_model_data": 5003}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
     { "predicate": {"custom_model_data": 5004}, "model": "ingeniamc:events/summer_event/decorations/colorable_surfboard"},
-    { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"}
+    { "predicate": {"custom_model_data": 5005}, "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"},
+    { "predicate": {"custom_model_data": 5006}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_1"},
+    { "predicate": {"custom_model_data": 5007}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_2"},
+    { "predicate": {"custom_model_data": 5008}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_3"}
   ]
 }
