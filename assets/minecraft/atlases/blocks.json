@@ -11,9 +11,14 @@
             "prefix": "font/"
         },
         {
+            "type": "directory",
+            "source": "title",
+            "prefix": "title/"
+        },
+        {
+            "type":"directory",
             "source":"entity",
-            "prefix":"entity/",
-            "type":"directory"
+            "prefix":"entity/"
         }
     ]
 }
