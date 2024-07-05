@@ -215,6 +215,7 @@ To give yourself a Custom Model Data item use:
 |                       | 5012                  | Summer Event Title
 |                       | 5013                  | Summer Event Title
 |                       | 5014                  | Summer Event Title
+|                       | 6000                  | Snowy Tall Grass
 | **stick**             | 1                     | White Arm
 | Arms                  | 2                     | White Darker Arm
 |                       | 3                     | Light Brown Arm
@@ -245,9 +246,9 @@ To give yourself a Custom Model Data item use:
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Colorable Slide
-| GUI                   | 7000                  | Colorable circle
-| **snowball**          | 5000                  | Water Balloon
-| Arms                  | 0                     | Reserved
+| GUI                   | 7000                  | Colorable Circle
+| **snowball**          | 0                     | Reserved
+|                       | 5000                  | Water Balloon
 
 </details>
 

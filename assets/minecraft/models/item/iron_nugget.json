@@ -21,6 +21,8 @@
     { "predicate": {"custom_model_data": 5010}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_5"},
     { "predicate": {"custom_model_data": 5011}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_6"},
     { "predicate": {"custom_model_data": 5012}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_7"},
-    { "predicate": {"custom_model_data": 5013}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_8"}
+    { "predicate": {"custom_model_data": 5013}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_8"},
+    { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/decorations/snowy_tall_grass"}
+    
   ]
 }
