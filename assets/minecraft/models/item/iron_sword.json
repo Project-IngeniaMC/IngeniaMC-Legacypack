@@ -15,6 +15,7 @@
         { "predicate": {"custom_model_data": 9}, "model": "ingeniamc:areas/global/cosmetics/hats/face_mask"},
         { "predicate": {"custom_model_data": 10}, "model": "ingeniamc:areas/global/cosmetics/hats/white_mouth_mask"},
         { "predicate": {"custom_model_data": 11}, "model": "ingeniamc:areas/global/cosmetics/mannequin"},
+        { "predicate": {"custom_model_data": 12}, "model": "ingeniamc:other/coastercon/cc-flag-2024"},
 
 
         { "predicate": {"custom_model_data": 1000}, "model": "ingeniamc:areas/magic_village/cosmetics/hats/dragon_hat_green"},
