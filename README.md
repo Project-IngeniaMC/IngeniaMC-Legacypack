@@ -120,6 +120,7 @@ To give yourself a Custom Model Data item use:
 |                       | 9                     | Face Mask
 |                       | 10                    | White Mouth Mask
 |                       | 11                    | Mannequin (Create Bodywear)
+|                       | 12                    | Coastercon Flag
 |                       | 1000                  | Green Dragon Hat
 |                       | 1001                  | Orange Dragon Hat
 |                       | 1002                  | Purple Dragon Hat
@@ -197,8 +198,9 @@ To give yourself a Custom Model Data item use:
 | **gold_sword**        | 3000                  | Rapids Of Mayhem Track
 | Tracks                | 3001                  | Rapids Of Mayhem Track Small 1
 |                       | 3002                  | Rapids Of Mayhem Track Small 2
-| **iron_nugget**       | 2000                  | Skeleton 1
-| Decoration            | 2001                  | Skeleton 2
+| **iron_nugget**       | 1                     | Coaster Con Banner
+| Decoration            | 2000                  | Skeleton 1
+|                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Splash Battles Logo

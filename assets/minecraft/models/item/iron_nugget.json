@@ -4,10 +4,13 @@
     "layer0": "minecraft:item/iron_nugget"
   },
   "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:other/coastercon/cc_2022_banner"},
+
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},
     { "predicate": {"custom_model_data": 2002}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"},
     { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"},
+
     { "predicate": {"custom_model_data": 5000}, "model": "ingeniamc:events/summer_event/decorations/splash_battles"},
     { "predicate": {"custom_model_data": 5001}, "model": "ingeniamc:events/summer_event/decorations/beach_con_bar"},
     { "predicate": {"custom_model_data": 5002}, "model": "ingeniamc:events/summer_event/decorations/dj_table"},
@@ -22,6 +25,7 @@
     { "predicate": {"custom_model_data": 5011}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_6"},
     { "predicate": {"custom_model_data": 5012}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_7"},
     { "predicate": {"custom_model_data": 5013}, "model": "ingeniamc:events/summer_event/decorations/summer_event_title_8"},
+
     { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/decorations/snowy_tall_grass"}
     
   ]
