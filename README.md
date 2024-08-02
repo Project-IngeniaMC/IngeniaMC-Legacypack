@@ -188,6 +188,7 @@ To give yourself a Custom Model Data item use:
 |                       | 2001                  | Pyraculus Door Right
 |                       | 2002                  | Sand Snake Snake Head Top
 |                       | 2003                  | Sand Snake Snake Head Bottom
+|                       | 4000                  | Carousel
 | **feather**           | 1                     | Empty Pane
 | GUI                   | 2                     | Green Speech Bubble
 |                       | 3                     | Red Speech Bubble
