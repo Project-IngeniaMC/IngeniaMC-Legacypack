@@ -7,6 +7,20 @@
         { "predicate": {"custom_model_data": 1}, "model": "ingeniamc:nutrition/food/burger"},
         { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:nutrition/food/hotdog"},
         { "predicate": {"custom_model_data": 3}, "model": "ingeniamc:nutrition/food/fries"},
-        { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:nutrition/food/holytomato"}
+        { "predicate": {"custom_model_data": 4}, "model": "ingeniamc:nutrition/food/holytomato"},
+
+        { "predicate": {"custom_model_data": 5}, "model": "ingeniamc:nutrition/food/icecream/chocolate"},
+        { "predicate": {"custom_model_data": 6}, "model": "ingeniamc:nutrition/food/icecream/chocolatedisco"},
+        { "predicate": {"custom_model_data": 7}, "model": "ingeniamc:nutrition/food/icecream/lemon"},
+        { "predicate": {"custom_model_data": 8}, "model": "ingeniamc:nutrition/food/icecream/lemon2"},
+        { "predicate": {"custom_model_data": 9}, "model": "ingeniamc:nutrition/food/icecream/lemondisco"},
+        { "predicate": {"custom_model_data": 10}, "model": "ingeniamc:nutrition/food/icecream/mint"},
+        { "predicate": {"custom_model_data": 11}, "model": "ingeniamc:nutrition/food/icecream/mint2"},
+        { "predicate": {"custom_model_data": 12}, "model": "ingeniamc:nutrition/food/icecream/mintdisco"},
+        { "predicate": {"custom_model_data": 13}, "model": "ingeniamc:nutrition/food/icecream/slush"},
+        { "predicate": {"custom_model_data": 14}, "model": "ingeniamc:nutrition/food/icecream/slushdisco"},
+        { "predicate": {"custom_model_data": 15}, "model": "ingeniamc:nutrition/food/icecream/strawberry"},
+        { "predicate": {"custom_model_data": 16}, "model": "ingeniamc:nutrition/food/icecream/strawberrydisco"}
+        
     ]
 }

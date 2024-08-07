@@ -159,6 +159,18 @@ To give yourself a Custom Model Data item use:
 | Food                  | 2                     | Hot Dog
 |                       | 3                     | Fries
 |                       | 4                     | Holy Tomato
+|                       | 5                     | Icecream Chocolate
+|                       | 6                     | Icecream Chocolate Disco
+|                       | 7                     | Icecream Lemon
+|                       | 8                     | Icecream Lemon 2
+|                       | 9                     | Icecream Lemon Disco
+|                       | 10                    | Icecream Mint
+|                       | 11                    | Icecream Mint 2
+|                       | 12                    | Icecream Mint Disco
+|                       | 13                    | Icecream Slush
+|                       | 14                    | Icecream Slush Disco
+|                       | 15                    | Icecream Strawberry
+|                       | 16                    | Icecream Strawberry Disco
 | **milk_bucket**       | 1000                  | Cocktail Blue Lemon
 | drinks                | 1001                  | Cocktail Green Lemon
 |                       | 1002                  | Cocktail Purple Lemon
@@ -188,6 +200,7 @@ To give yourself a Custom Model Data item use:
 |                       | 2001                  | Pyraculus Door Right
 |                       | 2002                  | Sand Snake Snake Head Top
 |                       | 2003                  | Sand Snake Snake Head Bottom
+|                       | 4000                  | Carousel
 | **feather**           | 1                     | Empty Pane
 | GUI                   | 2                     | Green Speech Bubble
 |                       | 3                     | Red Speech Bubble
@@ -199,7 +212,8 @@ To give yourself a Custom Model Data item use:
 | Tracks                | 3001                  | Rapids Of Mayhem Track Small 1
 |                       | 3002                  | Rapids Of Mayhem Track Small 2
 | **iron_nugget**       | 1                     | Coaster Con Banner
-| Decoration            | 2000                  | Skeleton 1
+| Decoration            | 2                     | Icecream Showcase
+|                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
