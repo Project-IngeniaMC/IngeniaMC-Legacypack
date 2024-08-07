@@ -1383,7 +1383,7 @@
             "type": "bitmap",
             "file": "ingeniamc:title/white.png",
             "height": 1500,
-            "ascent": 100,
+            "ascent": 500,
             "chars": [
                 "\uFE00"
             ]
