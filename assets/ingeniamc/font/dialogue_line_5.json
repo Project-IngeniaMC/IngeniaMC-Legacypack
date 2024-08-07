@@ -4,9 +4,9 @@
             "type": "ttf",
             "file": "ingeniamc:dialogue_line.ttf",
             "oversample": 16,
-            "size": 12,
+            "size": 10,
             "shift": [
-                0, 4
+                0, 8
             ]
         }
     ]
