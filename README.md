@@ -257,6 +257,7 @@ To give yourself a Custom Model Data item use:
 |                       | 16                    | Spotlight Angle 22,5
 |                       | 17                    | Blank Arm
 |                       | 18                    | Spotlight Rainbow Flash Circle
+|                       | 19                    | Potion 1
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
