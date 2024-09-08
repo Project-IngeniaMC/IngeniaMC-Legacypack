@@ -257,13 +257,13 @@ To give yourself a Custom Model Data item use:
 |                       | 16                    | Spotlight Angle 22,5
 |                       | 17                    | Blank Arm
 |                       | 18                    | Spotlight Rainbow Flash Circle
+|                       | 19                    | Colorable Potion
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Colorable Slide
 | GUI                   | 7000                  | Colorable Circle
-|                       | 7001                  | Colorable Potion
 | **snowball**          | 0                     | Reserved
 |                       | 5000                  | Water Balloon
 
