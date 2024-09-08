@@ -22,8 +22,6 @@
     { "predicate": {"custom_model_data": 16}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_angle_22_5"},
     { "predicate": {"custom_model_data": 17}, "model": "ingeniamc:areas/global/cosmetics/arms/blank_arm"},
     { "predicate": {"custom_model_data": 18}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_rainbow_flash_circle"},
-    { "predicate": {"custom_model_data": 19}, "model": "ingeniamc:areas/global/decorations/potions/potion"},
-    
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},
     { "predicate": {"custom_model_data": 2002}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"},
