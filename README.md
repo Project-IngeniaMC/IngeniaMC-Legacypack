@@ -263,6 +263,7 @@ To give yourself a Custom Model Data item use:
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Colorable Slide
 | GUI                   | 7000                  | Colorable Circle
+|                       | 7001                  | Colorable Potion
 | **snowball**          | 0                     | Reserved
 |                       | 5000                  | Water Balloon
 
