@@ -3,7 +3,7 @@
     "sounds": [
       {
         "name": "quests/devserver/test-quest/1",
-        "volume": 1.0,
+        "volume": 2.0,
         "pitch": 1.0,
         "stream": false
       }
@@ -13,7 +13,7 @@
     "sounds": [
       {
         "name": "quests/devserver/test-quest/2",
-        "volume": 1.0,
+        "volume": 2.0,
         "pitch": 1.0,
         "stream": false
       }
@@ -23,7 +23,7 @@
     "sounds": [
       {
         "name": "quests/devserver/test-quest/3",
-        "volume": 1.0,
+        "volume": 2.0,
         "pitch": 1.0,
         "stream": false
       }
