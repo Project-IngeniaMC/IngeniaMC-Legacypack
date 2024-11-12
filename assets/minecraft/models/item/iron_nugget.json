@@ -8,6 +8,9 @@
     { "predicate": {"custom_model_data": 2}, "model": "ingeniamc:areas/global/decorations/icecreamshowcase"},
 
     { "predicate": {"custom_model_data": 1000}, "model": "ingeniamc:areas/magic_village/decorations/party-hat"},
+    { "predicate": {"custom_model_data": 1001}, "model": "ingeniamc:areas/magic_village/decorations/bench-seat"},
+    { "predicate": {"custom_model_data": 1002}, "model": "ingeniamc:areas/magic_village/decorations/bench-support"},
+    { "predicate": {"custom_model_data": 1003}, "model": "ingeniamc:areas/magic_village/decorations/trash-can"},
 
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},

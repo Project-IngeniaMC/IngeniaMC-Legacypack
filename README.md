@@ -214,6 +214,9 @@ To give yourself a Custom Model Data item use:
 | **iron_nugget**       | 1                     | Coaster Con Banner
 | Decoration            | 2                     | Icecream Showcase
 |                       | 1000                  | Party Hat
+|                       | 1001                  | Bench Seat
+|                       | 1002                  | Bench Support
+|                       | 1003                  | Trash Can
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
