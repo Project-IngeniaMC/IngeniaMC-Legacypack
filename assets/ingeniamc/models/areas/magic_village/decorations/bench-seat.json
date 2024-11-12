@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "benchwood"
+		"1": "custom/decoration/benchseat"
 	},
 	"elements": [
 		{
