@@ -220,6 +220,10 @@ To give yourself a Custom Model Data item use:
 |                       | 1004                  | Watering Can
 |                       | 1005                  | Hammer
 |                       | 1006                  | Rake
+|                       | 1007                  | Small plank
+|                       | 1008                  | Normal plank
+|                       | 1009                  | Large plank
+|                       | 1010                  | Chair with pillow
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
