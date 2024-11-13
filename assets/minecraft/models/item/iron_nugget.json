@@ -12,6 +12,8 @@
     { "predicate": {"custom_model_data": 1002}, "model": "ingeniamc:areas/magic_village/decorations/bench-support"},
     { "predicate": {"custom_model_data": 1003}, "model": "ingeniamc:areas/magic_village/decorations/trash-can"},
     { "predicate": {"custom_model_data": 1004}, "model": "ingeniamc:areas/magic_village/decorations/watering_can"},
+    { "predicate": {"custom_model_data": 1005}, "model": "ingeniamc:areas/magic_village/decorations/hammer"},
+    { "predicate": {"custom_model_data": 1006}, "model": "ingeniamc:areas/magic_village/decorations/rake"},
 
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},

@@ -218,6 +218,8 @@ To give yourself a Custom Model Data item use:
 |                       | 1002                  | Bench Support
 |                       | 1003                  | Trash Can
 |                       | 1004                  | Watering Can
+|                       | 1005                  | Hammer
+|                       | 1006                  | Rake
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
