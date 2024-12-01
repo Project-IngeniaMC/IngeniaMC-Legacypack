@@ -29,6 +29,11 @@
     { "predicate": {"custom_model_data": 2003}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"},
     { "predicate": {"custom_model_data": 5000}, "model": "ingeniamc:events/summer_event/attractions/slides/colorable-slide"},
     { "predicate": {"custom_model_data": 5001}, "model": "ingeniamc:events/summer_event/attractions/slides/colorable_slide"},
+    { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/cosmetics/hats/muts1"},
+    { "predicate": {"custom_model_data": 6001}, "model": "ingeniamc:events/winter_event/cosmetics/hats/muts2"},
+    { "predicate": {"custom_model_data": 6002}, "model": "ingeniamc:events/winter_event/cosmetics/hats/muts3"},
+    { "predicate": {"custom_model_data": 6003}, "model": "ingeniamc:events/winter_event/cosmetics/hats/santa_beard"},
+    { "predicate": {"custom_model_data": 6004}, "model": "ingeniamc:events/winter_event/cosmetics/bodywear/ribbon"},
     { "predicate": {"custom_model_data": 7000}, "model": "ingeniamc:gui/colorable"}
   ]
 }
