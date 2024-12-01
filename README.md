@@ -12,7 +12,7 @@ To show all of the models we have in the server we use Custom Model Data. This m
 To give yourself a Custom Model Data item use:
 
 ```
-/give @p ITEM{CustomModelData:NUMBER}
+/give @p minecraft:ITEM[minecraft:custom_model_data=X]
 ```
 
 <details>
@@ -271,6 +271,7 @@ To give yourself a Custom Model Data item use:
 |                       | 16                    | Spotlight Angle 22,5
 |                       | 17                    | Blank Arm
 |                       | 18                    | Spotlight Rainbow Flash Circle
+|                       | 19                    | Colorable Potion
 |                       | 1000                  | Chair with pillow
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
