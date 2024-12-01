@@ -1,0 +1,32 @@
+{
+  "quest.devserver.test-quest.1": {
+    "sounds": [
+      {
+        "name": "quests/devserver/test-quest/quest-01",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "quest.devserver.test-quest.2": {
+    "sounds": [
+      {
+        "name": "quests/devserver/test-quest/quest-02",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "quest.devserver.test-quest.3": {
+    "sounds": [
+      {
+        "name": "quests/devserver/test-quest/quest-03",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  }
+}

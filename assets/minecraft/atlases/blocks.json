@@ -16,6 +16,11 @@
             "prefix": "title/"
         },
         {
+            "type": "directory",
+            "source": "areas",
+            "prefix": "areas/"
+        },
+        {
             "type":"directory",
             "source":"entity",
             "prefix":"entity/"

@@ -53,6 +53,9 @@
         { "predicate": {"custom_model_data": 6000}, "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_band"},
         { "predicate": {"custom_model_data": 6001}, "model": "ingeniamc:events/winter_event/cosmetics/hats/rudolph_reindeer"},
         { "predicate": {"custom_model_data": 6002}, "model": "ingeniamc:events/winter_event/cosmetics/hats/santa_hat"},
-        { "predicate": {"custom_model_data": 6003}, "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_santa_hat"}
+        { "predicate": {"custom_model_data": 6003}, "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_santa_hat"},
+        { "predicate": {"custom_model_data": 6004}, "model": "ingeniamc:events/winter_event/cosmetics/hats/christmas_tree"},
+        { "predicate": {"custom_model_data": 6005}, "model": "ingeniamc:events/winter_event/cosmetics/hats/santa_hat_with_lights"},
+        { "predicate": {"custom_model_data": 6006}, "model": "ingeniamc:events/winter_event/cosmetics/bodywear/christmas_lights_armor"}
     ]
 }

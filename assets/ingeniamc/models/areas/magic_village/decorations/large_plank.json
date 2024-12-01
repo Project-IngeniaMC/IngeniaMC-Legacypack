@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ingeniamc:areas/magic_village/decorations/large_plank",
+		"particle": "ingeniamc:areas/magic_village/decorations/large_plank"
+	},
+	"elements": [
+		{
+			"from": [6.5, 7.5, -8],
+			"to": [9.5, 8.5, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 7.5, 0]},
+			"faces": {
+				"north": {"uv": [3, 1, 4.5, 1.5], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 6, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 1.5, 4.5, 2], "texture": "#0"},
+				"west": {"uv": [5.5, 0, 5, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [1.5, 16, 0, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 1.5, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -1.75, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -1.75, -0.25]
+		},
+		"gui": {
+			"rotation": [25, 45, 0]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 14, 7.25],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

@@ -152,6 +152,9 @@ To give yourself a Custom Model Data item use:
 |                       | 6001                  | Rudolph Reindeer
 |                       | 6002                  | Santa Hat
 |                       | 6003                  | Golden Santa Hat
+|                       | 6004                  | Christmas Tree Hat
+|                       | 6005                  | Santa Hat With Lights
+|                       | 6006                  | Christmas Lights Armor
 | **amethyst_shard**    | 1                     | Branch wand
 | Wand Clash            | 2                     | Shield Hexagon
 |                       | 3                     | Magical Arrow
@@ -213,6 +216,17 @@ To give yourself a Custom Model Data item use:
 |                       | 3002                  | Rapids Of Mayhem Track Small 2
 | **iron_nugget**       | 1                     | Coaster Con Banner
 | Decoration            | 2                     | Icecream Showcase
+|                       | 1000                  | Party Hat
+|                       | 1001                  | Bench Seat
+|                       | 1002                  | Bench Support
+|                       | 1003                  | Trash Can
+|                       | 1004                  | Watering Can
+|                       | 1005                  | Hammer
+|                       | 1006                  | Rake
+|                       | 1007                  | Small plank
+|                       | 1008                  | Normal plank
+|                       | 1009                  | Large plank
+|                       | 1010                  | Chair with pillow
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
@@ -258,11 +272,17 @@ To give yourself a Custom Model Data item use:
 |                       | 17                    | Blank Arm
 |                       | 18                    | Spotlight Rainbow Flash Circle
 |                       | 19                    | Colorable Potion
+|                       | 1000                  | Chair with pillow
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2
 |                       | 2002                  | Skeleton 3
 |                       | 2003                  | Skeleton 4
 |                       | 5000                  | Colorable Slide
+|                       | 6000                  | Muts 1
+|                       | 6001                  | Muts 1
+|                       | 6002                  | Muts 1
+|                       | 6003                  | Santa Beard
+|                       | 6004                  | Ribbon
 | GUI                   | 7000                  | Colorable Circle
 | **snowball**          | 0                     | Reserved
 |                       | 5000                  | Water Balloon
