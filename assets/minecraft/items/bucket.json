@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/bucket"
+        },
+        "entries": [
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/cocktail-empty"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass-empty"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass2-empty"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/small-glass-empty"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/nutrition/drinks/emptyhotchocolate"
+                }
+            }
+        ]
+    }
+}

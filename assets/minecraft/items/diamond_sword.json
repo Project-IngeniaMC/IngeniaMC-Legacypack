@@ -1,0 +1,110 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/attractions/parktrain/parktrain_loco"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/attractions/parktrain/parktrain_wagon"
+                }
+            },
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/attractions/wizards_waters/wizard_waters"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/attractions/dragons_obelisk/dragonsobelisk"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/attractions/enchanted_flight/enchantedflight"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/wooden_coaster/woodencoaster"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/sand_snake/sand_snake"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/pyraculus/pyraculus"
+                }
+            },
+            {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/attractions/canoe_tour/canoe_tour"
+                }
+            },
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/attractions/rapids_of_mayhem/rapidsofmayhem"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/attractions/rapids_of_mayhem/rapidsofmayhem_front"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sakura_valley/attractions/sakura_swirl/black"
+                }
+            },
+            {
+                "threshold": 4001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sakura_valley/attractions/sakura_swirl/white"
+                }
+            },
+            {
+                "threshold": 6000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/attractions/sled/sled"
+                }
+            }
+        ]
+    }
+}

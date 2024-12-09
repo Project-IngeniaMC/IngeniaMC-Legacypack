@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/amethyst_shard"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:gamemodes/wand_clash/wands/branch"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:gamemodes/wand_clash/shield_hexagon"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:gamemodes/wand_clash/magical_arrow"
+                }
+            }
+        ]
+    }
+}

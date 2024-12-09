@@ -1,0 +1,236 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:other/coastercon/cc_2022_banner"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/decorations/icecreamshowcase"
+                }
+            },
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/party-hat"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/bench-seat"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/bench-support"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/trash-can"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/watering_can"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/hammer"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/rake"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/small_plank"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/normal_plank"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/large_plank"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/decorations/chair_with_pillow"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/decorations/skeleton3"
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/decorations/skeleton4"
+                }
+            },
+            {
+                "threshold": 5000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/splash_battles"
+                }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/beach_con_bar"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/dj_table"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/dj_table"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/colorable_surfboard"
+                }
+            },
+            {
+                "threshold": 5005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_1"
+                }
+            },
+            {
+                "threshold": 5007,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_2"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_3"
+                }
+            },
+            {
+                "threshold": 5009,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_4"
+                }
+            },
+            {
+                "threshold": 5010,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_5"
+                }
+            },
+            {
+                "threshold": 5011,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_6"
+                }
+            },
+            {
+                "threshold": 5012,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_7"
+                }
+            },
+            {
+                "threshold": 5013,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/decorations/summer_event_title_8"
+                }
+            },
+            {
+                "threshold": 6000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/decorations/snowy_tall_grass"
+                }
+            }
+        ]
+    }
+}

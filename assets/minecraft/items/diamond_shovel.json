@@ -1,0 +1,61 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_shovel"
+        },
+        "entries": [
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/attractions/wizards_waters/wizard_waters_gate"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/attractions/wizards_waters/elevator"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/pyraculus/doorleft"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/pyraculus/doorright"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/sand_snake/snakeheadtop"
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/attractions/sand_snake/snakeheadbottom"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/attractions/carousel/carousel"
+                }
+            }
+        ]
+    }
+}

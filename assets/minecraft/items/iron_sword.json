@@ -1,0 +1,334 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/bodywear/simple_backpack"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/bodywear/simple_wings"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/avontuuriergamer"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/m64diamondstar"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/chef_toque"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/owner_crown"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/black_hat"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/black_mouth_mask"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/face_mask"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/hats/white_mouth_mask"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/global/cosmetics/mannequin"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:other/coastercon/cc-flag-2024"
+                }
+            },
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/dragon_hat_green"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/dragon_hat_orange"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/dragon_hat_purple"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/dragon_hat_red"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/wizard_hat_green"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/wizard_hat_orange"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/wizard_hat_purple"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/hats/wizard_hat_red"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/other/goblin_handheld"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/other/goblin_hat_breakdancing"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/other/goblin_hat_lying"
+                }
+            },
+            {
+                "threshold": 1020,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/magic_village/cosmetics/other/goblin_hat_waving"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sandy_town/cosmetics/hats/camel_hat"
+                }
+            },
+            {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/cosmetics/hats/ranger_hat"
+                }
+            },
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/cosmetics/hats/reversed_straw_hat"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/cosmetics/hats/sombrero"
+                }
+            },
+            {
+                "threshold": 3003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/vina_tropica/cosmetics/hats/straw_hat"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:areas/sakura_valley/cosmetics/hats/japanese_hat"
+                }
+            },
+            {
+                "threshold": 5000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring"
+                }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/duck_ring"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/turtle_ring"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring_green"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/swim_ring_blue"
+                }
+            },
+            {
+                "threshold": 5005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/seal_ring"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/bodywear/lifebuoy"
+                }
+            },
+            {
+                "threshold": 5007,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/hats/seal"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/cosmetics/hats/golden_seal"
+                }
+            },
+            {
+                "threshold": 6000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_band"
+                }
+            },
+            {
+                "threshold": 6001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/rudolph_reindeer"
+                }
+            },
+            {
+                "threshold": 6002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/santa_hat"
+                }
+            },
+            {
+                "threshold": 6003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/golden_santa_hat"
+                }
+            },
+            {
+                "threshold": 6004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/christmas_tree"
+                }
+            },
+            {
+                "threshold": 6005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/hats/santa_hat_with_lights"
+                }
+            },
+            {
+                "threshold": 6006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/cosmetics/bodywear/christmas_lights_armor"
+                }
+            }
+        ]
+    }
+}

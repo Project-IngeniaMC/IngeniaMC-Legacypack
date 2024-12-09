@@ -1,0 +1,110 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/milk_bucket"
+        },
+        "entries": [
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/cocktail-blue-lemon"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/cocktail-green-lemon"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/cocktail-purple-lemon"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass-blue-leave"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass-pink-leave"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass-red-leave"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/small-glass-blue"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/small-glass-green"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/small-glass-red"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass2-yellow"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass2-blue"
+                }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/nutrition/drinks/glass2-red"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/nutrition/drinks/hotchocolate"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/winter_event/nutrition/drinks/hotchocolatecream"
+                }
+            }
+        ]
+    }
+}

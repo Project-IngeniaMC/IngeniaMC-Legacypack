@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/snowball"
+        },
+        "entries": [
+            {
+                "threshold": 5000,
+                "model": {
+                    "type": "model",
+                    "model": "ingeniamc:events/summer_event/gamemodes/splash_battles/waterballoon"
+                }
+            }
+        ]
+    }
+}
