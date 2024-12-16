@@ -272,6 +272,7 @@ To give yourself a Custom Model Data item use:
 |                       | 17                    | Blank Arm
 |                       | 18                    | Spotlight Rainbow Flash Circle
 |                       | 19                    | Colorable Potion
+|                       | 20                    | Parasol
 |                       | 1000                  | Chair with pillow
 |                       | 2000                  | Skeleton 1
 |                       | 2001                  | Skeleton 2

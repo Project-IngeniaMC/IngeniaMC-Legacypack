@@ -23,6 +23,7 @@
     { "predicate": {"custom_model_data": 17}, "model": "ingeniamc:areas/global/cosmetics/arms/blank_arm"},
     { "predicate": {"custom_model_data": 18}, "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_rainbow_flash_circle"},
     { "predicate": {"custom_model_data": 19}, "model": "ingeniamc:areas/global/decorations/colorable_potion"},
+    { "predicate": {"custom_model_data": 20}, "model": "ingeniamc:areas/global/decorations/furniture/parasol"},
     { "predicate": {"custom_model_data": 1000}, "model": "ingeniamc:areas/magic_village/decorations/chair_with_pillow"},
     { "predicate": {"custom_model_data": 2000}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton1"},
     { "predicate": {"custom_model_data": 2001}, "model": "ingeniamc:areas/sandy_town/decorations/skeleton2"},
