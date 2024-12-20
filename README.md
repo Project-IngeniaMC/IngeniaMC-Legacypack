@@ -216,6 +216,7 @@ To give yourself a Custom Model Data item use:
 |                       | 3002                  | Rapids Of Mayhem Track Small 2
 | **iron_nugget**       | 1                     | Coaster Con Banner
 | Decoration            | 2                     | Icecream Showcase
+|                       | 3                     | JortieBoyNL Heart Thropy
 |                       | 1000                  | Party Hat
 |                       | 1001                  | Bench Seat
 |                       | 1002                  | Bench Support
