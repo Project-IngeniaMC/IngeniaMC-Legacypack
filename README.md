@@ -92,7 +92,7 @@ To give yourself a Custom Model Data item use:
 
 <details>
 <summary>Custom Model Data List</summary>
-
+ 
 | Parent-Item           | Custom Model Data     | Model
 | --------------        | :-:                   | -------------
 | **diamond_sword**     | 1                     | Parktrain Wagon
