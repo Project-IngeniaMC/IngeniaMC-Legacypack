@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:gui/colorable",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": -13083194
+            }
+        ]
+    }
+}

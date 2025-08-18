@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:areas/sandy_town/decorations/skeleton4",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": -13083194
+            }
+        ]
+    }
+}

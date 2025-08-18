@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:areas/global/decorations/furniture/white_colorable_parasol",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": -13083194
+            }
+        ]
+    }
+}

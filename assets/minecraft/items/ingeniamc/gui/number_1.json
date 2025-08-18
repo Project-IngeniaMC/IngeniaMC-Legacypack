@@ -1,0 +1,25 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:gui/number_1"
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                0,
+                45
+            ],
+            "translation": [
+                -1,
+                13,
+                7
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    }
+}

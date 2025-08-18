@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:areas/magic_village/decorations/chair_with_pillow",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": -13083194
+            }
+        ]
+    }
+}

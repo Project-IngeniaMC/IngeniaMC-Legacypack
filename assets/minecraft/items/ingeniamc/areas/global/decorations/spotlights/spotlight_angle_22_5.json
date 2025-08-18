@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "model",
+        "model": "ingeniamc:areas/global/decorations/spotlights/spotlight_angle_22_5",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": -13083194
+            }
+        ]
+    }
+}

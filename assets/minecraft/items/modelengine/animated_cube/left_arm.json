@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "model",
+        "model": "modelengine:animated_cube/left_arm"
+    }
+}
