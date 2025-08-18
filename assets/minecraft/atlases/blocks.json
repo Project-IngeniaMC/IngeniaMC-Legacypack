@@ -24,6 +24,11 @@
             "type":"directory",
             "source":"entity",
             "prefix":"entity/"
+        },
+        {
+            "type": "directory",
+            "source": "events",
+            "prefix": "events/"
         }
     ]
 }
