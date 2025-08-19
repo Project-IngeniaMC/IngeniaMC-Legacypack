@@ -1,7 +1,3 @@
-
-![Logo](https://dunb17ur4ymx4.cloudfront.net/webstore/logos/5456bcd2219c227bfb200f8711c5652ecf4d741f.png)
-
-
 # IngeniaMC-Resourcepack
 
 This is the private repository for the IngeniaMC Resourcepack. Here are all of the models & textures that the IngeniaMC server uses.
@@ -92,7 +88,7 @@ To give yourself a Custom Model Data item use:
 
 <details>
 <summary>Custom Model Data List</summary>
-
+ 
 | Parent-Item           | Custom Model Data     | Model
 | --------------        | :-:                   | -------------
 | **diamond_sword**     | 1                     | Parktrain Wagon
